@@ -1,0 +1,282 @@
+SnomedCTConceptID,Term
+502541000000105,"[D]Blood pressure raised, hypertension not diagnosed"
+502541000000105,"[D]Blood pressure raised, hypertension not diagnosed (context-dependent category)"
+502541000000105,"[D]Blood pressure raised, hypertension not diagnosed (situation)"
+502551000000108,[D]Nonspecific low blood pressure reading
+502551000000108,[D]Nonspecific low blood pressure reading (context-dependent category)
+502551000000108,[D]Nonspecific low blood pressure reading (situation)
+207519004,[D]Raised blood pressure reading
+207519004,[D]Raised blood pressure reading (context-dependent category)
+207519004,[D]Raised blood pressure reading (situation)
+386534000,ABP - Arterial blood pressure
+250765005,ABP - Arterial blood pressure
+386534000,Arterial blood pressure
+386534000,Arterial blood pressure (observable entity)
+723232008,Average blood pressure
+723232008,Average blood pressure (observable entity)
+918051000000106,Average diastolic blood pressure
+314453003,Average diastolic blood pressure
+314453003,Average diastolic blood pressure (observable entity)
+918041000000108,Average systolic blood pressure
+314440001,Average systolic blood pressure (observable entity)
+928031000000105,Baseline blood pressure
+928021000000108,Baseline blood pressure
+928031000000105,Baseline blood pressure
+928021000000108,Baseline blood pressure (observable entity)
+945861000000100,Baseline diastolic blood pressure
+945851000000103,Baseline diastolic blood pressure
+716632005,Baseline diastolic blood pressure
+945861000000100,Baseline diastolic blood pressure
+945851000000103,Baseline diastolic blood pressure (observable entity)
+716632005,Baseline diastolic blood pressure (observable entity)
+945881000000109,Baseline systolic blood pressure
+945871000000107,Baseline systolic blood pressure
+716579001,Baseline systolic blood pressure
+945881000000109,Baseline systolic blood pressure
+945871000000107,Baseline systolic blood pressure (observable entity)
+716579001,Baseline systolic blood pressure (observable entity)
+250765005,Blood pressure
+75367002,Blood pressure
+250765005,Blood pressure (observable entity)
+75367002,Blood pressure (observable entity)
+250765005,Blood pressure [dup] (observable entity)
+24184005,Blood pressure elevation
+392570002,Blood pressure finding
+392570002,Blood pressure finding (finding)
+75367002,"Blood pressure, NOS"
+314956000,Borderline blood pressure
+170604000,Borderline blood pressure
+147850007,Borderline blood pressure
+314956000,Borderline blood pressure (finding)
+170604000,Borderline blood pressure (finding)
+147850007,Borderline blood pressure (finding)
+250765005,BP - Blood pressure
+75367002,BP - Blood pressure
+251076008,Cuff blood pressure
+271650006,DAP - Diastolic arterial pressure
+251073000,DAP - Diastolic arterial pressure
+174255007,DAP - Diastolic arterial pressure
+271650006,DBP - Diastolic blood pressure
+12763006,"Decreased blood pressure, not hypotension"
+1091811000000102,Diastolic arterial pressure
+271650006,Diastolic arterial pressure
+67726005,Diastolic arterial pressure
+1091811000000102,Diastolic arterial pressure (observable entity)
+67726005,Diastolic arterial pressure (observable entity)
+67726005,"Diastolic arterial pulse pressure, NOS"
+271650006,Diastolic blood pressure
+67726005,Diastolic blood pressure
+271650006,Diastolic blood pressure (observable entity)
+446226005,Diastolic blood pressure on admission
+446226005,Diastolic blood pressure on admission (observable entity)
+67726005,"Diastolic blood pressure, NOS"
+24184005,Elevated blood pressure
+24184005,Elevated blood pressure (not hypertension)
+12763006,Finding of decreased blood pressure
+12763006,Finding of decreased blood pressure (finding)
+24184005,Finding of increased blood pressure
+24184005,Finding of increased blood pressure (finding)
+62275004,Hypertensive episode
+62275004,Hypertensive episode (disorder)
+24184005,Increased blood pressure (not hypertension)
+12763006,"Low blood pressure, not hypotension"
+163033001,Lying blood pressure
+163033001,Lying blood pressure (observable entity)
+163033001,Lying blood pressure reading
+140246009,Lying blood pressure reading
+140246009,Lying blood pressure reading (observable entity)
+407557002,Lying diastolic blood pressure
+407557002,Lying diastolic blood pressure (observable entity)
+100171000000100,Lying systolic blood pressure
+95301000000105,Lying systolic blood pressure
+407556006,Lying systolic blood pressure
+407556006,Lying systolic blood pressure (observable entity)
+6797001,MAP - Mean arterial pressure
+852291000000105,Maximum mean blood pressure
+852291000000105,Maximum mean blood pressure (observable entity)
+314439003,Maximum systolic blood pressure
+314439003,Maximum systolic blood pressure (observable entity)
+6797001,MBP - Mean blood pressure
+6797001,Mean arterial pressure
+6797001,Mean blood pressure
+6797001,Mean blood pressure (observable entity)
+314438006,Minimum systolic blood pressure
+314438006,Minimum systolic blood pressure (observable entity)
+251076008,NIBP - Non-invasive blood pressure
+860643007,No postural drop in blood pressure
+860643007,No postural drop in blood pressure (situation)
+251076008,Non-invasive arterial pressure
+251076008,Non-invasive arterial pressure (observable entity)
+723237002,Non-invasive blood pressure
+723237002,Non-invasive blood pressure (observable entity)
+251072005,Non-invasive diastolic arterial pressure
+174255007,Non-invasive diastolic arterial pressure
+251072005,Non-invasive diastolic arterial pressure (observable entity)
+174255007,Non-invasive diastolic arterial pressure (observable entity)
+251072005,Non-invasive diastolic arterial pressure [Ambiguous]
+174255007,Non-invasive diastolic blood pressure
+251070002,Non-invasive SAP (systolic arterial pressure)
+251070002,Non-invasive systolic blood pressure
+170605004,Normal blood pressure
+147851006,Normal blood pressure
+2004005,Normal blood pressure
+170605004,Normal blood pressure (finding)
+147851006,Normal blood pressure (finding)
+2004005,Normal blood pressure (finding)
+2004005,Normotensive
+271647008,Raised blood pressure
+24184005,Raised blood pressure
+271647008,Raised blood pressure (finding)
+271869003,Raised blood pressure reading
+271869003,Raised blood pressure reading (disorder)
+364090009,SAP - Systemic arterial pressure
+250765005,SAP - Systemic arterial pressure
+271649006,SAP - Systolic arterial pressure
+251071003,SAP - Systolic arterial pressure
+251070002,SAP - Systolic arterial pressure
+386536003,SBP - Systemic blood pressure
+250765005,SBP - Systemic blood pressure
+407555005,Sitting diastolic blood pressure
+407555005,Sitting diastolic blood pressure (observable entity)
+100151000000109,Sitting systolic blood pressure
+95281000000109,Sitting systolic blood pressure
+407554009,Sitting systolic blood pressure
+407554009,Sitting systolic blood pressure (observable entity)
+163034007,Standing blood pressure
+163034007,Standing blood pressure (observable entity)
+163034007,Standing blood pressure reading
+140247000,Standing blood pressure reading
+140247000,Standing blood pressure reading (observable entity)
+400975005,Standing diastolic blood pressure
+400975005,Standing diastolic blood pressure (observable entity)
+79401000000106,Standing systolic blood pressure
+75131000000106,Standing systolic blood pressure
+400974009,Standing systolic blood pressure
+400974009,Standing systolic blood pressure (observable entity)
+364090009,Systemic arterial pressure
+364090009,Systemic arterial pressure (observable entity)
+386536003,Systemic blood pressure
+386536003,Systemic blood pressure (observable entity)
+72313002,Systolic arterial pressure
+72313002,Systolic arterial pressure (observable entity)
+72313002,"Systolic arterial pulse pressure, NOS"
+72313002,Systolic blood pressure
+271649006,Systolic blood pressure
+271649006,Systolic blood pressure (observable entity)
+399304008,Systolic blood pressure on admission
+399304008,Systolic blood pressure on admission (observable entity)
+72313002,"Systolic blood pressure, NOS"
+163020007,O/E - blood pressure
+163036009,O/E - blood pressure decreased
+140249002,O/E - blood pressure decreased
+140249002,O/E - blood pressure decreased (finding)
+163020007,O/E - blood pressure reading
+140233004,O/E - blood pressure reading
+140233004,O/E - blood pressure reading (finding)
+163024003,O/E - BP borderline low
+140237003,O/E - BP borderline low
+140237003,O/E - BP borderline low (finding)
+163026001,O/E - BP borderline raised
+140239000,O/E - BP borderline raised
+140239000,O/E - BP borderline raised (finding)
+163020007,O/E - BP reading
+163023009,O/E - BP reading low
+163025002,O/E - BP reading normal
+140238008,O/E - BP reading normal
+140238008,O/E - BP reading normal (finding)
+163027005,O/E - BP reading raised
+140240003,O/E - BP reading raised
+140240003,O/E - BP reading raised (finding)
+163028000,O/E - BP reading very high
+140241004,O/E - BP reading very high
+140241004,O/E - BP reading very high (finding)
+163022004,O/E - BP reading very low
+163040000,O/E - BP reading: no postural drop
+313005002,O/E - BP reading: no postural drop
+140253000,O/E - BP reading: no postural drop
+163040000,O/E - BP reading: no postural drop (finding)
+140253000,O/E - BP reading: no postural drop (finding)
+163029008,O/E - BP reading:postural drop
+163032006,O/E - BP stable
+147836002,O/E - check high BP
+147836002,O/E - check high BP (finding)
+163031004,O/E - Diastolic BP reading
+170581003,O/E - initial high BP
+147835003,O/E - initial high BP
+147835003,O/E - initial high BP (finding)
+163030003,O/E - Systolic BP reading
+532221000000107,O/E-blood pressure reading NOS
+163043003,O/E-blood pressure reading NOS
+140256008,O/E-blood pressure reading NOS
+140256008,O/E-blood pressure reading NOS (finding)
+163024003,On examination - blood pressure borderline low
+163024003,On examination - blood pressure borderline low (disorder)
+163026001,On examination - blood pressure borderline raised
+163026001,On examination - blood pressure borderline raised (finding)
+163036009,On examination - blood pressure decreased
+163036009,On examination - blood pressure decreased (context-dependent category)
+163036009,On examination - blood pressure decreased (finding)
+163020007,On examination - blood pressure reading
+163020007,On examination - blood pressure reading (context-dependent category)
+163020007,On examination - blood pressure reading (finding)
+163023009,On examination - blood pressure reading low
+163023009,On examination - blood pressure reading low (disorder)
+163025002,On examination - blood pressure reading normal
+163025002,On examination - blood pressure reading normal (finding)
+532221000000107,On examination - blood pressure reading NOS
+163043003,On examination - blood pressure reading NOS
+163043003,On examination - blood pressure reading NOS (context-dependent category)
+532221000000107,On examination - blood pressure reading NOS (finding)
+163043003,On examination - blood pressure reading NOS (finding)
+163027005,On examination - blood pressure reading raised
+163027005,On examination - blood pressure reading raised (finding)
+163028000,On examination - blood pressure reading very high
+163028000,On examination - blood pressure reading very high (finding)
+163022004,On examination - blood pressure reading very low
+163022004,On examination - blood pressure reading very low (disorder)
+313005002,On examination - blood pressure reading: no postural drop
+313005002,On examination - blood pressure reading: no postural drop (situation)
+163032006,On examination - blood pressure stable
+163032006,On examination - blood pressure stable (finding)
+163024003,On examination - BP borderline low
+163024003,On examination - BP borderline low (context-dependent category)
+163024003,On examination - BP borderline low (disorder)
+163026001,On examination - BP borderline raised
+163026001,On examination - BP borderline raised (context-dependent category)
+163026001,On examination - BP borderline raised (finding)
+163023009,On examination - BP reading low
+163023009,On examination - BP reading low (context-dependent category)
+163023009,On examination - BP reading low (disorder)
+163025002,On examination - BP reading normal
+163025002,On examination - BP reading normal (context-dependent category)
+163025002,On examination - BP reading normal (finding)
+163027005,On examination - BP reading raised
+163027005,On examination - BP reading raised (context-dependent category)
+163027005,On examination - BP reading raised (finding)
+163028000,On examination - BP reading very high
+163028000,On examination - BP reading very high (context-dependent category)
+163028000,On examination - BP reading very high (finding)
+163022004,On examination - BP reading very low
+163022004,On examination - BP reading very low (context-dependent category)
+163022004,On examination - BP reading very low (disorder)
+313005002,On examination - BP reading: no postural drop
+313005002,On examination - BP reading: no postural drop (context-dependent category)
+313005002,On examination - BP reading: no postural drop (situation)
+163032006,On examination - BP stable
+163032006,On examination - BP stable (context-dependent category)
+163032006,On examination - BP stable (finding)
+163031004,On examination - Diastolic blood pressure reading
+163031004,On examination - Diastolic blood pressure reading (finding)
+163031004,On examination - Diastolic BP reading
+163031004,On examination - Diastolic BP reading (context-dependent category)
+163031004,On examination - Diastolic BP reading (finding)
+170581003,On examination - initial high blood pressure
+170581003,On examination - initial high blood pressure (finding)
+170581003,On examination - initial high BP
+170581003,On examination - initial high BP (context-dependent category)
+170581003,On examination - initial high BP (finding)
+163030003,On examination - Systolic blood pressure reading
+163030003,On examination - Systolic blood pressure reading (finding)
+163030003,On examination - Systolic BP reading
+163030003,On examination - Systolic BP reading (context-dependent category)
+163030003,On examination - Systolic BP reading (finding)
