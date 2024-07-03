@@ -1,0 +1,45 @@
+SnomedCTConceptId,Term
+78564009,Pulse rate
+78564009,"Pulse rate, NOS"
+78564009,Pulse rate (observable entity)
+78564009,PR - Pulse rate
+78564009,Heart rate measured at systemic artery (observable entity)
+78564009,Heart rate measured at systemic artery
+80042002,Cardiac rate
+80042002,"Cardiac rate, NOS"
+80042002,"Heart rate, NOS"
+80042002,"Heart beat, NOS"
+80042002,Heart rate
+80042002,Heart beat
+80042002,Cardiac rate (function)
+80042002,"Cardiac rate, function (observable entity)"
+80042002,Cardiac rate (observable entity)
+364075005,Heart rate
+364075005,Heart rate (observable entity)
+364075005,Cardiac rate
+422119006,Brachial pulse rate (observable entity)
+422119006,Brachial pulse rate
+422119006,Heart rate measured at brachial artery (observable entity)
+422119006,Heart rate measured at brachial artery
+429525003,Dorsalis pedis pulse rate (observable entity)
+429525003,Dorsalis pedis pulse rate
+429525003,Heart rate measured at dorsalis pedis artery (observable entity)
+429525003,Heart rate measured at dorsalis pedis artery
+429614003,Posterior tibial pulse rate (observable entity)
+429614003,Posterior tibial pulse rate
+429614003,Heart rate measured at posterior tibial artery (observable entity)
+429614003,Heart rate measured at posterior tibial artery
+295081000000107,Posterior tibial pulse rate (observable entity)
+295081000000107,Posterior tibial pulse rate
+295091000000109,Dorsalis pedis pulse rate (observable entity)
+295091000000109,Dorsalis pedis pulse rate
+843941000000100,Radial pulse rate (observable entity)
+843941000000100,Radial pulse rate
+843951000000102,Radial pulse rate 
+843951000000102,Radial pulse rate
+891771000000103,Heart rate
+891771000000103,Heart rate
+1089491000000108,Heart rate measured at cardiac apex
+1089491000000108,Heart rate at cardiac apex
+1089491000000108,Heart apex beat rate
+1089491000000108,Heart rate measured at cardiac apex (observable entity)

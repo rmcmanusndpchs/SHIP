@@ -1,0 +1,29 @@
+SnomedCTConceptId,Term
+84698008,Cholesterol
+84698008,Cholesterol (substance)
+301860006,Total cholesterol
+301860006,Total cholesterol (substance)
+301875003,Cholesterol analyte
+301875003,Cholesterol analyte (substance)
+850981000000101,Cholesterol level
+850981000000101,Cholesterol level (observable entity)
+853681000000104,Total cholesterol level
+853681000000104,Total cholesterol level (observable entity)
+994351000000103,Serum total cholesterol level (observable entity)
+994351000000103,Serum total cholesterol level
+1005671000000105,Serum cholesterol level (observable entity)
+1005671000000105,Serum cholesterol level
+1017161000000104,Plasma total cholesterol level (observable entity)
+1017161000000104,Plasma total cholesterol level
+1026441000000100,Serum cholesterol studies (observable entity)
+1026441000000100,Serum cholesterol studies
+1083761000000106,Serum fasting total cholesterol level
+1083761000000106,Serum fasting total cholesterol level (observable entity)
+1106531000000105,Cholesterol substance concentration in plasma
+1106531000000105,Substance concentration of cholesterol in plasma (observable entity)
+1106531000000105,Cholesterol molar concentration in plasma
+1106541000000101,Cholesterol substance concentration in serum
+1106541000000101,Substance concentration of cholesterol in serum (observable entity)
+1106541000000101,Cholesterol molar concentration in serum
+18520611000001106,Cholesterol (substance)
+18520611000001106,Cholesterol
