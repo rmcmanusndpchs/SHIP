@@ -1,0 +1,451 @@
+SnomedCTConceptId,Term
+160601007,Non-smoker
+160601007,Never smoked tobacco
+160601007,Non-smoker (& [never smoked tobacco])
+160601007,Non-smoker (& [never smoked tobacco])
+160601007,Non-smoker (& [never smoked tobacco]) (finding)
+266919005,Never smoked
+266919005,Never smoked tobacco
+266919005,Never smoked tobacco (life style)
+266919005,Never smoked tobacco (finding)
+1092131000000107,Ex-trivial smoker (<1/day)
+1092131000000107,Ex-trivial smoker (<1/day) (finding)
+1092111000000104,Ex-light smoker (1-9/day)
+1092111000000104,Ex-light smoker (1-9/day) (finding)
+1092091000000109,Ex-moderate smoker (10-19/day)
+1092091000000109,Ex-moderate smoker (10-19/day) (finding)
+1092071000000105,Ex-heavy smoker (20-39/day)
+1092071000000105,Ex-heavy smoker (20-39/day) (finding)
+1092041000000104,Ex-very heavy smoker (40+/day)
+1092041000000104,Ex-very heavy smoker (40+/day) (finding)
+1092031000000108,Ex-smoker amount unknown
+1092031000000108,Ex-smoker amount unknown (finding)
+766621000000100,Smoker before confirmation of pregnancy (finding)
+766621000000100,Smoker before confirmation of pregnancy
+766611000000106,Stopped smoking before pregnancy (finding)
+766611000000106,Stopped smoking before pregnancy
+766581000000100,Stopped smoking during pregnancy (finding)
+766581000000100,Stopped smoking during pregnancy
+517211000000106,Recently stopped smoking (finding)
+517211000000106,Recently stopped smoking
+198271000000106,[V]Personal history of tobacco abuse (context-dependent category)
+198271000000106,[V]Personal history of tobacco abuse
+198271000000106,[V]Personal history of tobacco abuse (situation)
+48031000119106,Ex-smoker for more than 1 year (finding)
+48031000119106,Ex-smoker for more than 1 year
+449369001,Stopped smoking before pregnancy (finding)
+449369001,Stopped smoking before pregnancy
+449368009,Stopped smoking during pregnancy (finding)
+449368009,Stopped smoking during pregnancy
+449345000,Smoked before confirmation of pregnancy (finding)
+449345000,Smoked before confirmation of pregnancy
+449345000,Smoker before confirmation of pregnancy
+266928006,Ex-cigarette smoker amount unknown
+266928006,Ex-cigarette smoker amount unknown (life style)
+266928006,Ex-cigarette smoker amount unknown (finding)
+266925009,Ex-very heavy cigarette smoker (40+/day)
+266925009,Ex-very heavy cigarette smoker (40+/day) (life style)
+266925009,Ex-very heavy cigarette smoker (40+/day) (finding)
+266924008,Ex-heavy cigarette smoker (20-39/day)
+266924008,Ex-heavy cigarette smoker (20-39/day) (life style)
+266924008,Ex-heavy cigarette smoker (20-39/day) (finding)
+266923002,Ex-moderate cigarette smoker (10-19/day)
+266923002,Ex-moderate cigarette smoker (10-19/day) (life style)
+266923002,Ex-moderate cigarette smoker (10-19/day) (finding)
+266922007,Ex-light cigarette smoker (1-9/day)
+266922007,Ex-light cigarette smoker (1-9/day) (life style)
+266922007,Ex-light cigarette smoker (1-9/day) (finding)
+266921000,Ex-trivial cigarette smoker (<1/day)
+266921000,Ex-trivial cigarette smoker (<1/day) (life style)
+266921000,Ex-trivial cigarette smoker (<1/day) (finding)
+228486009,Time since stopped smoking
+228486009,Time since stopped smoking (observable entity)
+160625004,Date ceased smoking
+160625004,Date ceased smoking (observable entity)
+160621008,Ex-cigar smoker
+160621008,Ex-cigar smoker (life style)
+160621008,Ex-cigar smoker (finding)
+160620009,Ex-pipe smoker
+160620009,Ex-pipe smoker (life style)
+160620009,Ex-pipe smoker (finding)
+160617001,Stopped smoking
+160617001,Stopped smoking (life style)
+160617001,Stopped smoking (finding)
+160615009,Ex-smoker - amount unknown
+160615009,Ex-smoker - amount unknown (life style)
+160615009,Ex-smoker - amount unknown (finding)
+160611000,Ex-very heavy smoker (40+/day)
+160611000,Ex-very heavy smoker (40+/day) (life style)
+160611000,Ex-very heavy smoker (40+/day) (finding)
+160610004,Ex-heavy smoker (20-39/day)
+160610004,Ex-heavy smoker (20-39/day) (life style)
+160610004,Ex-heavy smoker (20-39/day) (finding)
+160609009,Ex-moderate smoker (10-19/day)
+160609009,Ex-moderate smoker (10-19/day) (life style)
+160609009,Ex-moderate smoker (10-19/day) (finding)
+160608001,Ex-light smoker (1-9/day)
+160608001,Ex-light smoker (1-9/day) (life style)
+160608001,Ex-light smoker (1-9/day) (finding)
+160607006,Ex-trivial smoker (<1/day)
+160607006,Ex-trivial smoker (<1/day) (life style)
+160607006,Ex-trivial smoker (<1/day) (finding)
+766621000000100,Smoker before confirmation of pregnancy (finding)
+766621000000100,Smoker before confirmation of pregnancy
+449345000,Smoked before confirmation of pregnancy (finding)
+449345000,Smoked before confirmation of pregnancy
+449345000,Smoker before confirmation of pregnancy
+266929003,Smoking started - finding
+266929003,Smoking started (life style)
+266929003,Smoking started (finding)
+266929003,Smoking started
+266929003,Smoking started
+266927001,Tobacco smoking consumption unknown
+266927001,Tobacco smoking consumption unknown (finding)
+266920004,Occasional smoker
+266920004,Occasional cigarette smoker (less than one cigarette/day)
+266920004,Trivial cigarette smoker (less than one cigarette/day)
+266920004,Trivial cigarette smoker (less than one cigarette/day) (life style)
+266920004,Trivial cigarette smoker (less than one cigarette/day) (finding)
+266918002,Tobacco smoking consumption
+266918002,Tobacco smoking consumption (observable entity)
+266918002,Amount and type of tobacco smoked
+160627007,Tobacco consumption NOS
+160627007,Tobacco consumption NOS (observable entity)
+160619003,Rolls own cigarettes
+160619003,Rolls own cigarettes (finding)
+160616005,Trying to give up smoking
+160616005,Trying to give up smoking (finding)
+160613002,Admitted tobacco cons untrue ?
+160613002,Admitted tobacco cons untrue ? (finding)
+160613002,Admitted tobacco consumption possibly untrue (finding)
+160613002,Admitted tobacco consumption possibly untrue
+160612007,Keeps trying to stop smoking
+160612007,Keeps trying to stop smoking (finding)
+160606002,Very heavy cigarette smoker (40+ cigs/day)
+160606002,Very heavy cigarette smoker (40+ cigs/day) (life style)
+160606002,Very heavy cigarette smoker (40+ cigs/day) (finding)
+160605003,Heavy cigarette smoker (20-39 cigs/day)
+160605003,Heavy cigarette smoker (20-39 cigs/day) (life style)
+160605003,Heavy cigarette smoker (20-39 cigs/day) (finding)
+160604004,Moderate cigarette smoker (10-19 cigs/day)
+160604004,Moderate cigarette smoker (10-19 cigs/day) (life style)
+160604004,Moderate cigarette smoker (10-19 cigs/day) (finding)
+160603005,Light cigarette smoker (1-9 cigs/day)
+160603005,Light cigarette smoker (1-9 cigs/day) (life style)
+160603005,Light cigarette smoker (1-9 cigs/day) (finding)
+221000119102,Never smoked any substance
+221000119102,Never smoked any substance (finding)
+137982008,Never smoked tobacco
+137982008,Non-smoker
+137982008,Non-smoker (& [never smoked tobacco])
+137982008,Non-smoker (& [never smoked tobacco])
+137982008,Non-smoker (& [never smoked tobacco]) (finding)
+10998291000119107,History of smoking
+10998291000119107,History of smoking (situation)
+707381000000107,Recently stopped smoking
+707381000000107,Recently stopped smoking
+492211000000104,Ex-rolls own cigarettes 
+492211000000104,Ex-rolls own cigarettes
+492201000000101,Ex-rolls own cigarettes 
+492201000000101,Ex-rolls own cigarettes
+492191000000103,Ex roll-up cigarette smoker (finding)
+492191000000103,Ex roll-up cigarette smoker
+487391000000101,Ex-cigarette smoker 
+487391000000101,Ex-cigarette smoker
+485971000000109,Ex-cigarette smoker 
+485971000000109,Ex-cigarette smoker
+213191000000105,[V]Personal history of tobacco abuse
+213191000000105,[V]Personal history of tobacco abuse
+1221000175102,Age at smoking cessation (observable entity)
+1221000175102,Age at smoking cessation
+735128000,Ex-smoker for less than 1 year (finding)
+735128000,Ex-smoker for less than 1 year
+735112005,Date ceased using moist tobacco (observable entity)
+735112005,Date ceased using moist tobacco
+360900008,Aggressive ex-smoker
+360900008,Aggressive ex-smoker (life style)
+360900008,Aggressive ex-smoker (finding)
+360890004,Intolerant ex-smoker
+360890004,Intolerant ex-smoker (life style)
+360890004,Intolerant ex-smoker (finding)
+281018007,Ex-cigarette smoker
+281018007,Ex-cigarette smoker (life style)
+281018007,Ex-cigarette smoker (finding)
+53896009,Tolerant ex-smoker
+53896009,Tolerant ex-smoker (life style)
+53896009,Tolerant ex-smoker (finding)
+8517006,Former smoker
+8517006,Ex-smoker
+8517006,Cessation of smoking
+8517006,Ex-smoker (life style)
+8517006,Ex-smoker (finding)
+1094321000000100,Referral for brief intervention for smoking cessation
+1094321000000100,Referral for brief intervention for smoking cessation (procedure)
+1087441000000106,Smoking cessation programme declined
+1087441000000106,Smoking cessation programme declined (situation)
+1084051000000108,Occasional tobacco smoker (finding)
+1084051000000108,Occasional tobacco smoker
+1084051000000108,Occasional smoker
+966981000000101,Varenicline smoking cessation therapy declined 
+966981000000101,Varenicline smoking cessation therapy declined
+966971000000103,Varenicline smoking cessation therapy declined (situation)
+966971000000103,Varenicline smoking cessation therapy declined
+871671000000104,Referral to smoking cessation service 
+871671000000104,Referral to smoking cessation service
+871661000000106,Referral to smoking cessation service (procedure)
+871661000000106,Referral to smoking cessation service
+871651000000108,Referral to smoking cessation service declined 
+871651000000108,Referral to smoking cessation service declined
+871641000000105,Referral to smoking cessation service declined (situation)
+871641000000105,Referral to smoking cessation service declined
+864091000000103,Number of previous attempts to stop smoking (observable entity)
+864091000000103,Number of previous attempts to stop smoking
+836011000000106,Waterpipe tobacco consumption 
+836011000000106,Waterpipe tobacco consumption
+836001000000109,Waterpipe tobacco consumption (observable entity)
+836001000000109,Waterpipe tobacco consumption
+834711000000102,Smoking cessation programme declined
+834711000000102,Smoking cessation programme declined
+822601000000102,Smoking cessation drug therapy declined 
+822601000000102,Smoking cessation drug therapy declined
+822591000000108,Smoking cessation drug therapy declined (situation)
+822591000000108,Smoking cessation drug therapy declined
+780901000000101,Referral for smoking cessation service offered
+780901000000101,Referral for smoking cessation service offered
+767641000000109,Referral for smoking cessation service offered (finding)
+767641000000109,Referral for smoking cessation service offered
+726841000000101,Failed attempt to stop smoking 
+726841000000101,Failed attempt to stop smoking
+726831000000105,Failed attempt to stop smoking (finding)
+726831000000105,Failed attempt to stop smoking
+595501000000101,Tobacco consumption NOS (observable entity)
+595501000000101,Tobacco consumption NOS
+527161000000105,Smoking cessation advice declined 
+527161000000105,Smoking cessation advice declined
+527151000000107,Smoking cessation advice declined (situation)
+527151000000107,Smoking cessation advice declined
+526411000000103,Smoking cessation programme declined (finding)
+526411000000103,Smoking cessation programme declined
+517271000000101,Current smoker annual review
+517271000000101,Current smoker annual review (procedure)
+510681000000102,Referral to NHS stop smoking service
+510681000000102,Referral to NHS stop smoking service
+510581000000103,Current smoker annual review - enhanced services administration
+510581000000103,Current smoker annual review - enhanced services administration
+510571000000100,Current smoker annual review - enhanced services administration
+510571000000100,Current smoker annual review - enhanced services administration
+507731000000108,Brief intervention for smoking cessation 
+507731000000108,Brief intervention for smoking cessation
+507721000000106,Brief intervention for smoking cessation 
+507721000000106,Brief intervention for smoking cessation
+506491000000102,Brief intervention for smoking cessation (procedure)
+506491000000102,Brief intervention for smoking cessation
+505651000000103,Current smoker annual review - enhanced services administration (procedure)
+505651000000103,Current smoker annual review - enhanced services administration
+505651000000103,Current smoker annual review (procedure)
+505651000000103,Current smoker annual review
+505651000000103,Current smoker annual review (regime/therapy)
+505301000000107,Referral to NHS (National Health Service) smoking cessation service 
+505301000000107,Referral to NHS (National Health Service) smoking cessation service
+505281000000106,Referral to National Health Service stop smoking service (procedure)
+505281000000106,Referral to National Health Service stop smoking service
+505281000000106,Referral to NHS (National Health Service) stop smoking service
+428041000124106,Occasional tobacco smoker
+428041000124106,Occasional tobacco smoker (finding)
+428041000124106,Occasional smoker
+375931000000105,Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration 
+375931000000105,Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration
+375921000000108,Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration 
+375921000000108,Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration
+375911000000102,Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration (procedure)
+375911000000102,Chronic obstructive pulmonary disease structured smoking assessment declined
+375911000000102,Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration (situation)
+375911000000102,Chronic obstructive pulmonary disease structured smoking assessment declined (situation)
+375871000000104,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration 
+375871000000104,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration
+375861000000106,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration 
+375861000000106,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration
+375851000000108,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration (procedure)
+375851000000108,Referred for chronic obstructive pulmonary disease structured smoking assessment
+375851000000108,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration (situation)
+375851000000108,Referred for chronic obstructive pulmonary disease structured smoking assessment (finding)
+203191000000107,Wants to stop smoking (finding)
+203191000000107,Wants to stop smoking
+201941000000100,Attends smoking cessation clinic not at practice (finding)
+201941000000100,Attends smoking cessation clinic not at practice
+117791000000101,Minutes from waking to first tobacco consumption
+117791000000101,Minutes from waking to first tobacco consumption
+111321000000109,Minutes from waking to first tobacco consumption
+111321000000109,Minutes from waking to first tobacco consumption
+81821000000106,Seen by smoking cessation advisor
+81821000000106,Seen by smoking cessation advisor
+78751000000105,Reason for restarting smoking
+78751000000105,Reason for restarting smoking
+77421000000108,Seen by smoking cessation advisor
+77421000000108,Seen by smoking cessation advisor
+46481000000107,Reason for restarting smoking
+46481000000107,Reason for restarting smoking
+44341000000100,Reason for restarting smoking (observable entity)
+44341000000100,Reason for restarting smoking
+41301000000101,Reason for restarting smoking
+41301000000101,Reason for restarting smoking
+39041000000103,Reason for restarting smoking
+39041000000103,Reason for restarting smoking
+36901000000109,DNA - Did not attend smoking cessation clinic
+36901000000109,DNA - Did not attend smoking cessation clinic
+36891000000108,DNA - Did not attend smoking cessation clinic
+36891000000108,DNA - Did not attend smoking cessation clinic
+25261000000107,DNA - Did not attend smoking cessation clinic
+25261000000107,DNA - Did not attend smoking cessation clinic (finding)
+25261000000107,Did not attend smoking cessation clinic
+25261000000107,Did not attend smoking cessation clinic (finding)
+25261000000107,Did not attend smoking cessation clinic
+771155005,Brief intervention for smoking cessation
+771155005,Brief intervention for smoking cessation (procedure)
+770729006,Referral for brief intervention for smoking cessation
+770729006,Referral for brief intervention for smoking cessation (procedure)
+711081005,Negotiation of date for cessation of smoking
+711081005,Negotiation of date for cessation of smoking (procedure)
+699033005,Provision of smoking cessation leaflet
+699033005,Provision of smoking cessation leaflet (procedure)
+698289004,Hookah pipe smoker
+698289004,Water pipe smoker
+698289004,Hookah pipe smoker (finding)
+449868002,Smokes tobacco daily
+449868002,Smokes tobacco daily (finding)
+446172000,Failed attempt to stop smoking (finding)
+446172000,Failed attempt to stop smoking
+413173009,Minutes from waking to first tobacco consumption (observable entity)
+413173009,Minutes from waking to first tobacco consumption
+401201003,Cigarette pack-years (observable entity)
+401201003,Cigarette pack-years
+401159003,Reason for restarting smoking (observable entity)
+401159003,Reason for restarting smoking
+401068004,Seen by smoking cessation advisor (finding)
+401068004,Seen by smoking cessation advisor
+395700008,Referral to smoking cessation advisor (procedure)
+395700008,Referral to smoking cessation advisor
+395700008,Referral: smok cessatn advisor
+395645002,Referral to smoking cessation advisor
+395645002,Referral to smoking cessation advisor
+395645002,Referral to smoking cessation advisor (procedure)
+395600001,Referral to smoking cessation advisor
+395600001,Referral to smoking cessation advisor
+395600001,Referral to smoking cessation advisor (procedure)
+394873005,Not interested in stopping smoking (finding)
+394873005,Not interested in stopping smoking
+394872000,Ready to stop smoking (finding)
+394872000,Ready to stop smoking
+394871007,Thinking about stopping smoking (observable entity)
+394871007,Thinking about stopping smoking
+394871007,Thinking about stopping smoking (finding)
+365982000,Tobacco smoking consumption - finding
+365982000,Finding of tobacco smoking consumption (finding)
+365982000,Finding of tobacco smoking consumption
+365981007,Tobacco smoking behavior - finding
+365981007,Finding of tobacco smoking behavior (finding)
+365981007,Tobacco smoking behaviour - finding
+365981007,Smoking
+365981007,Finding of tobacco smoking behavior
+365981007,Finding of tobacco smoking behaviour
+315232003,Referral to stop-smoking clinic
+315232003,Referral to stop-smoking clinic (procedure)
+308438006,Smoking restarted - finding
+308438006,Smoking restarted (life style)
+308438006,Smoking restarted (finding)
+308438006,Smoking restarted
+308438006,Smoking restarted
+273738001,Reasons for smoking scale
+273738001,RFS - Reasons for smoking scale
+273738001,Reasons for smoking scale (assessment scale)
+273632007,MFS - Motives for smoking scale
+273632007,Motives for smoking scale
+273632007,Motives for smoking scale (assessment scale)
+266394006,Simple chronic bronchitis
+266394006,Smokers' cough
+266394006,Tracheobronchitis - senile
+266394006,Smoker's cough
+266394006,Cough - smoker's
+266394006,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis)
+266394006,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis)
+266394006,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis) (disorder)
+230065006,Chain smoker
+230065006,Chain smoker (life style)
+230065006,Chain smoker (finding)
+230064005,Very heavy cigarette smoker
+230064005,Very heavy cigarette smoker (life style)
+230064005,Very heavy cigarette smoker (finding)
+230063004,Heavy cigarette smoker
+230063004,Heavy cigarette smoker (life style)
+230063004,Heavy cigarette smoker (finding)
+230062009,Moderate cigarette smoker
+230062009,Moderate cigarette smoker (life style)
+230062009,Moderate cigarette smoker (finding)
+230060001,Light cigarette smoker
+230060001,Light cigarette smoker (life style)
+230060001,Light cigarette smoker (finding)
+230059006,Trivial cigarette smoker
+230059006,Occasional cigarette smoker
+230059006,Occasional cigarette smoker (life style)
+230059006,Occasional cigarette smoker (finding)
+230058003,Pipe tobacco consumption
+230058003,Pipe tobacco consumption (observable entity)
+230057008,Cigar consumption
+230057008,Cigar consumption (observable entity)
+230056004,Cigarette consumption
+230056004,Cigarette consumption (observable entity)
+225934006,Smokes in bed
+225934006,Smokes in bed (finding)
+183871002,Referral to stop-smoking clinic
+183871002,Referral to stop-smoking clinic
+183871002,Referral to stop-smoking clinic (procedure)
+155567003,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis)
+155567003,Smoker's cough
+155567003,Simple chronic bronchitis
+155567003,Cough - smoker's
+155567003,Tracheobronchitis - senile
+155567003,Smokers' cough
+155567003,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis)
+155567003,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis) (disorder)
+152100002,Referral to stop-smoking clinic
+152100002,Referral to stop-smoking clinic
+152100002,Referral to stop-smoking clinic (procedure)
+134406006,Smoking reduced
+134406006,Smoking reduced (observable entity)
+134406006,Smoking reduced (finding)
+110483000,Tobacco user
+110483000,Tobacco user (life style)
+110483000,Tobacco user (finding)
+110483000,Tobacco use
+82302008,Pipe smoker
+82302008,Pipe smoker (life style)
+82302008,Pipe smoker (finding)
+77176002,Smoker
+77176002,"Smoker, NOS"
+77176002,Current smoker
+77176002,Smoker (life style)
+77176002,Smoker (finding)
+77176002,Smoking
+66562002,Cigarette smoking tobacco
+66562002,Cigarette smoking tobacco (substance)
+65568007,Cigarette smoker
+65568007,"Cigarette smoker, NOS"
+65568007,Cigarette smoker (life style)
+65568007,Cigarette smoker (finding)
+59978006,Cigar smoker
+59978006,Cigar smoker (life style)
+59978006,Cigar smoker (finding)
+56771006,Heavy smoker (over 20 per day)
+56771006,Heavy smoker (over 20 per day) (life style)
+56771006,Heavy smoker (over 20 per day) (finding)
+56578002,Moderate smoker (20 or less per day)
+56578002,Moderate smoker (20 or less per day) (life style)
+56578002,Moderate smoker (20 or less per day) (finding)
+46802002,Smokers' cough
+46802002,Cigarette cough
+46802002,Smokers' cough (disorder)
+26663004,Cigar smoking tobacco
+26663004,Cigar smoking tobacco (substance)
+6368002,Cigarette cough
+6368002,Cigarette cough
+6368002,Cigarette cough (qualifier value)

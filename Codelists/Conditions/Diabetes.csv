@@ -1,1 +1,1525 @@
-
+SnomedCTConceptId,Term
+371054002,Type I diabetes mellitus with complication (disorder)
+371054002,Type I diabetes mellitus with complication
+371054002,Type 1 diabetes mellitus with complication
+426875007,Latent autoimmune diabetes mellitus in adult (disorder)
+426875007,Latent autoimmune diabetes mellitus in adult (LADA)
+426875007,Latent autoimmune diabetes mellitus in adult
+429094000,Dietary education for type I diabetes mellitus (procedure)
+429094000,Dietary education for type I diabetes mellitus
+429094000,Dietary education for type 1 diabetes mellitus
+429094000,Dietary advice for type I diabetes
+429094000,Dietary advice for type 1 diabetes
+706894000,Retinopathy due to unstable diabetes mellitus type 1 (disorder)
+706894000,Retinopathy due to unstable diabetes mellitus type 1
+706894000,Retinopathy due to brittle type I diabetes mellitus
+31321000119102,Diabetes mellitus type 1 without retinopathy (disorder)
+31321000119102,Diabetes mellitus type 1 without retinopathy
+50211000000103,Type I diabetes mellitus - poor control
+50211000000103,Type I diabetes mellitus - poor control
+71701000119105,Hypertension in chronic kidney disease due to type 1 diabetes mellitus
+71701000119105,Hypertension in chronic kidney disease due to type 1 diabetes mellitus (disorder)
+71701000119105,Hypertension in chronic kidney disease due to type I diabetes mellitus
+72021000119109,Diabetic dermopathy due to type 1 diabetes mellitus
+72021000119109,Diabetic dermopathy due to type 1 diabetes mellitus (disorder)
+72021000119109,Dermopathy due to type 1 diabetes mellitus (disorder)
+72021000119109,Dermopathy due to type 1 diabetes mellitus
+78441000000102,Type 1 diabetes mellitus with ketoacidosis
+78441000000102,Type 1 diabetes mellitus with ketoacidosis
+82901000000101,Type I diabetes mellitus with gangrene
+82901000000101,Type I diabetes mellitus with gangrene
+87481000119109,Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus
+87481000119109,Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus (disorder)
+90741000119107,Chronic kidney disease stage 3 due to type 1 diabetes mellitus
+90741000119107,Chronic kidney disease stage 3 due to type 1 diabetes mellitus (disorder)
+90741000119107,Chronic kidney disease stage 3 due to type I diabetes mellitus
+96441000119101,Chronic kidney disease due to type 1 diabetes mellitus
+96441000119101,Chronic kidney disease due to type 1 diabetes mellitus (disorder)
+96441000119101,Chronic kidney disease due to type I diabetes mellitus
+109171000119104,Retinal oedema due to type 1 diabetes mellitus
+109171000119104,Retinal edema due to type 1 diabetes mellitus
+109171000119104,Retinal edema due to type 1 diabetes mellitus (disorder)
+109171000119104,Retinal edema co-occurrent and due to type 1 diabetes mellitus (disorder)
+109171000119104,Retinal edema with type 1 diabetes mellitus
+109171000119104,Retinal oedema co-occurrent and due to type 1 diabetes mellitus
+109171000119104,Retinal edema co-occurrent and due to type 1 diabetes mellitus
+109171000119104,Retinal oedema with type 1 diabetes mellitus
+137941000119106,Hyperlipidemia due to type 1 diabetes mellitus
+137941000119106,Hyperlipidemia due to type 1 diabetes mellitus (disorder)
+137941000119106,Hyperlipidaemia due to type 1 diabetes mellitus
+338031000000100,Latent autoimmune diabetes mellitus in adult
+338031000000100,Latent autoimmune diabetes mellitus in adult
+368541000119101,Cheiropathy due to type 1 diabetes mellitus
+368541000119101,Cheiroarthropathy due to diabetes mellitus type 1 (disorder)
+368541000119101,Cheiroarthropathy due to diabetes mellitus type 1
+772031000000104,History of diabetes mellitus type 1 (situation)
+772031000000104,H/O: diabetes mellitus type 1
+772031000000104,History of diabetes mellitus type I
+772031000000104,History of diabetes mellitus type 1
+1067201000000106,Eating disorder co-occurrent with diabetes mellitus type 1 (disorder)
+1067201000000106,Eating disorder co-occurrent with diabetes mellitus type 1
+1067201000000106,ED-DMT1 - Eating disorder-diabetes mellitus type 1
+1067201000000106,Diabulimia
+16697521000119104,Moderate nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 1 (disorder)
+16697521000119104,Moderate nonproliferative retinopathy of both eyes due to diabetes mellitus type 1
+16697521000119104,Moderate nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 1
+16697521000119104,Bilateral moderate nonproliferative retinopathy due to diabetes mellitus type 1
+16745891000119105,Mild nonproliferative retinopathy of left eye due to diabetes mellitus type 1 (disorder)
+16745891000119105,Mild nonproliferative retinopathy of left eye due to diabetes mellitus type 1
+16747101000119101,Severe nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 1 (disorder)
+16747101000119101,Severe nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 1
+16747101000119101,Severe nonproliferative diabetic retinopathy of bilateral eyes due to diabetes mellitus type 1
+16747101000119101,Bilateral severe nonproliferative retinopathy of eyes due to diabetes mellitus type 1
+16747101000119101,Severe nonproliferative retinopathy of both eyes due to diabetes mellitus type 1
+16749781000119101,Proliferative retinopathy of bilateral eyes due to diabetes mellitus type 1
+16749781000119101,Proliferative retinopathy of bilateral eyes due to diabetes mellitus type 1 (disorder)
+16749781000119101,Bilateral proliferative retinopathy of eyes due to diabetes mellitus type 1
+16749781000119101,Proliferative retinopathy of both eyes due to diabetes mellitus type 1
+190340004,"Diabetes mellitus, adult onset, with renal manifestation"
+190340004,"Diabetes mellitus, adult onset, with renal manifestation (disorder)"
+190357000,"Diabetes mellitus, adult with gangrene"
+190357000,"Diabetes mellitus, adult with gangrene (disorder)"
+190387006,Type 2 diabetes mellitus with neurological complications
+190387006,Non-insulin-dependent diabetes mellitus with neurological complications
+190387006,Type II diabetes mellitus with neurological complications
+190387006,Type II diabetes mellitus with neurological complications (disorder)
+190391001,Type 2 diabetes mellitus with retinopathy
+190391001,Non-insulin-dependent diabetes mellitus with retinopathy
+190391001,NIDDM - Non-insulin-dependent diabetes mellitus with retinopathy
+190391001,Type II diabetes mellitus with retinopathy
+190391001,Type II diabetes mellitus with retinopathy (disorder)
+359638003,NIDDM in nonobese
+359638003,NIDDM in nonobese (disorder)
+359638003,Non-insulin dependent diabetes mellitus (NIDDM) in nonobese (disorder)
+359638003,Non-insulin dependent diabetes mellitus (NIDDM) in nonobese
+359638003,Non-insulin dependent diabetes mellitus in nonobese
+359638003,Non-insulin dependent diabetes mellitus in nonobese (disorder)
+394511005,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+394511005,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+394511005,Hyperosmolar non-ketotic state in type 2 diabetes mellitus (disorder)
+422034002,Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+422034002,Diabetic retinopathy associated with type II diabetes mellitus
+422034002,Retinopathy associated with non-insulin-dependent diabetes mellitus
+422034002,Retinopathy associated with adult-onset type diabetes mellitus
+422034002,Diabetic retinopathy associated with type 2 diabetes mellitus
+422034002,Diabetes type 2 with retinopathy
+422034002,Retinopathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+422034002,Retinopathy co-occurrent and due to type 2 diabetes mellitus
+422034002,Retinopathy with type 2 diabetes mellitus
+422034002,Retinopathy due to type 2 diabetes mellitus (disorder)
+422034002,Retinopathy due to type 2 diabetes mellitus
+731000119105,Chronic kidney disease stage 3 associated with type 2 diabetes mellitus
+731000119105,Diabetic stage 3 chronic renal impairment associated with type 2 diabetes mellitus
+731000119105,Diabetic stage 3 chronic renal impairment due to type 2 diabetes mellitus
+731000119105,Chronic kidney disease stage 3 due to type 2 diabetes mellitus (disorder)
+731000119105,Chronic kidney disease stage 3 due to type 2 diabetes mellitus
+731000119105,Chronic kidney disease stage 3 due to type II diabetes mellitus
+731000119105,Chronic kidney disease stage 3 associated with type 2 diabetes mellitus (disorder)
+43781000000106,Type II diabetes mellitus with gangrene
+43781000000106,Type II diabetes mellitus with gangrene
+72061000119104,Osteomyelitis due to type 2 diabetes mellitus (disorder)
+72061000119104,Osteomyelitis due to type 2 diabetes mellitus
+83211000000102,Type II diabetes mellitus with neuropathic arthropathy
+83211000000102,Type II diabetes mellitus with neuropathic arthropathy
+84041000000107,Type II diabetes mellitus - poor control
+84041000000107,Type II diabetes mellitus - poor control
+87461000119100,Forefoot ulcer due to type 2 diabetes mellitus
+87461000119100,Forefoot ulcer due to type 2 diabetes mellitus (disorder)
+87461000119100,Ulcer of forefoot due to type 2 diabetes mellitus (disorder)
+87461000119100,Ulcer of forefoot due to type 2 diabetes mellitus
+97331000119101,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)
+97331000119101,Macular edema and retinopathy due to type 2 diabetes mellitus
+97331000119101,Macular oedema and retinopathy due to type 2 diabetes mellitus
+104961000119108,Retinal ischemia due to type 2 diabetes mellitus
+104961000119108,Retinal ischemia due to type 2 diabetes mellitus (disorder)
+104961000119108,Retinal ischaemia due to type 2 diabetes mellitus
+104961000119108,Retinal ischemia co-occurrent and due to type 2 diabetes mellitus (disorder)
+104961000119108,Retinal ischaemia with type 2 diabetes mellitus
+104961000119108,Retinal ischaemia co-occurrent and due to type 2 diabetes mellitus
+104961000119108,Retinal ischemia with type 2 diabetes mellitus
+104961000119108,Retinal ischemia co-occurrent and due to type 2 diabetes mellitus
+104961000119108,Ischemia of retina due to type 2 diabetes mellitus (disorder)
+104961000119108,Ischaemia of retina due to type 2 diabetes mellitus
+104961000119108,Ischemia of retina due to type 2 diabetes mellitus
+110181000119105,Peripheral sensory neuropathy due to type 2 diabetes mellitus
+110181000119105,Peripheral sensory neuropathy due to type 2 diabetes mellitus (disorder)
+127991000119101,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus
+127991000119101,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus (disorder)
+140101000119109,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus
+140101000119109,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus (disorder)
+140101000119109,Hypertension in chronic kidney disease stage 5 due to type II diabetes mellitus
+140381000119104,Neuropathic toe ulcer due to type 2 diabetes mellitus (disorder)
+140381000119104,Neuropathic toe ulcer due to type 2 diabetes mellitus
+140381000119104,Neuropathic ulcer of toe due to type 2 diabetes mellitus (disorder)
+140381000119104,Neuropathic ulcer of toe due to type 2 diabetes mellitus
+157141000119108,Proteinuria due to type 2 diabetes mellitus
+157141000119108,Proteinuria due to type 2 diabetes mellitus (disorder)
+368051000119109,Hyperglycemia due to type 2 diabetes mellitus (disorder)
+368051000119109,Hyperglycemia due to type 2 diabetes mellitus
+368051000119109,Hyperglycaemia due to type 2 diabetes mellitus
+754131000000109,Type 2 diabetic dietary review 
+754131000000109,Type 2 diabetic dietary review
+16745531000119108,Mild nonproliferative retinopathy of left eye due to diabetes mellitus type 2 (disorder)
+16745531000119108,Mild nonproliferative retinopathy of left eye due to diabetes mellitus type 2
+16746261000119108,Moderate nonproliferative retinopathy of right eye due to diabetes mellitus type 2
+16746261000119108,Moderate nonproliferative retinopathy of right eye due to diabetes mellitus type 2 (disorder)
+16747141000119104,Severe nonproliferative retinopathy of right eye due to diabetes mellitus type 2 (disorder)
+16747141000119104,Severe nonproliferative retinopathy of right eye due to diabetes mellitus type 2
+16749661000119102,Proliferative retinopathy of right eye due to diabetes mellitus type 2 (disorder)
+16749661000119102,Proliferative retinopathy of right eye due to diabetes mellitus type 2
+314888007,Type II diabetes mellitus with diabetic cataract
+314888007,Type 2 diabetes mellitus with diabetic cataract
+314888007,Non-insulin dependent diabetes mellitus with diabetic cataract
+314888007,Type II diabetes mellitus with diabetic cataract (disorder)
+314370005,Type II diabetes mellitus with mononeuropathy
+314370005,Type 2 diabetes mellitus with mononeuropathy
+314370005,Non-insulin dependent diabetes mellitus with mononeuropathy
+314370005,Type II diabetes mellitus with mononeuropathy (disorder)
+421075007,Ketoacidotic coma in type I diabetes mellitus (disorder)
+421075007,Ketoacidotic coma in type I diabetes mellitus
+421075007,Ketoacidotic coma in juvenile-onset type diabetes mellitus
+421075007,Ketoacidotic coma in insulin-dependent diabetes mellitus
+421075007,Ketoacidotic coma in type 1 diabetes mellitus
+421075007,Diabetes mellitus type 1 with ketoacidotic coma
+421075007,Ketoacidotic coma due to type 1 diabetes mellitus (disorder)
+421075007,Ketoacidotic coma due to type 1 diabetes mellitus
+408287009,Type 1 diabetes mellitus with exudative maculopathy (disorder)
+408287009,Type 1 diabetes mellitus with exudative maculopathy
+408287009,Type I diabetes mellitus with exudative maculopathy
+314887002,Insulin dependent diabetes mellitus with diabetic cataract
+314887002,Type 1 diabetes mellitus with diabetic cataract
+314887002,Type I diabetes mellitus with diabetic cataract
+314887002,Type I diabetes mellitus with diabetic cataract (disorder)
+314368001,Type I diabetes mellitus with mononeuropathy
+314368001,Type 1 diabetes mellitus with mononeuropathy
+314368001,Insulin dependent diabetes mellitus with mononeuropathy
+314368001,Type I diabetes mellitus with mononeuropathy (disorder)
+199229001,"Pre-existing diabetes mellitus, insulin-dependent"
+199229001,"Pre-existing diabetes mellitus, insulin-dependent (disorder)"
+199229001,Pre-existing type 1 diabetes mellitus (disorder)
+199229001,Pre-existing type 1 diabetes mellitus
+190369008,Type 1 diabetes mellitus with gangrene
+190369008,Insulin-dependent diabetes mellitus with gangrene
+190369008,Type I diabetes mellitus with gangrene
+190369008,Type I diabetes mellitus with gangrene (disorder)
+190365002,Type 1 diabetes mellitus with neurological complications
+190365002,Insulin-dependent diabetes mellitus with neurological complications
+190365002,Type I diabetes mellitus with neurological complications
+190365002,Type I diabetes mellitus with neurological complications (disorder)
+190355008,"Diabetes mellitus, juvenile type, with peripheral circulatory disorder"
+190355008,"Diabetes mellitus, juvenile type, with peripheral circulatory disorder (disorder)"
+190334006,"Diabetes mellitus, juvenile type, with ketoacidotic coma"
+190334006,"Diabetes mellitus, juvenile type, with ketoacidotic coma (disorder)"
+28032008,Insulin dependent diabetes mellitus type IB
+28032008,Primary autoimmune diabetes mellitus
+28032008,Insulin dependent diabetes mellitus type IB (disorder)
+28032008,Insulin dependent diabetes mellitus type 1B
+28032008,Idiopathic type 1 diabetes mellitus
+279321000000104,Diabetes type 2 review (regime/therapy)
+279321000000104,Diabetes type 2 review
+279321000000104,Diabetes type II review
+60951000119105,Blindness due to type 2 diabetes mellitus
+60951000119105,Blindness due to type 2 diabetes mellitus (disorder)
+60951000119105,Blindness co-occurrent and due to type 2 diabetes mellitus (disorder)
+60951000119105,Blindness co-occurrent and due to type 2 diabetes mellitus
+24471000000103,Type 2 diabetes on insulin
+24471000000103,Type 2 diabetes on insulin (finding)
+24471000000103,Type II diabetes on insulin
+24471000000103,Type 2 diabetic on insulin (finding)
+24471000000103,Type 2 diabetic on insulin
+1531000119102,Diabetic dermopathy associated with diabetes mellitus type 2
+1531000119102,Dermopathy due to type 2 diabetes mellitus (disorder)
+1531000119102,Dermopathy due to type 2 diabetes mellitus
+1531000119102,Diabetic dermopathy associated with diabetes mellitus type 2 (disorder)
+1491000119102,Diabetic vitreous haemorrhage associated with type II diabetes mellitus
+1491000119102,Diabetic vitreous hemorrhage associated with type II diabetes mellitus
+1491000119102,Diabetic vitreous hemorrhage associated with type 2 diabetes mellitus
+1491000119102,Diabetic vitreous haemorrhage associated with type 2 diabetes mellitus
+1491000119102,Vitreous haemorrhage co-occurrent and due to type 2 diabetes mellitus
+1491000119102,Vitreous hemorrhage co-occurrent and due to type 2 diabetes mellitus
+1491000119102,Vitreous hemorrhage co-occurrent and due to type 2 diabetes mellitus (disorder)
+1491000119102,Vitreous hemorrhage with type 2 diabetes mellitus
+1491000119102,Vitreous haemorrhage with type 2 diabetes mellitus
+1491000119102,Vitreous haemorrhage due to type 2 diabetes mellitus
+1491000119102,Vitreous hemorrhage due to type 2 diabetes mellitus
+1491000119102,Vitreous hemorrhage due to type 2 diabetes mellitus (disorder)
+1491000119102,Diabetic vitreous hemorrhage associated with type II diabetes mellitus (disorder)
+771000119108,Chronic renal impairment associated with type II diabetes mellitus
+771000119108,Diabetic chronic renal impairment associated with type 2 diabetes mellitus
+771000119108,Chronic renal impairment associated with type II diabetes mellitus (disorder)
+771000119108,Chronic renal impairment associated with type 2 diabetes mellitus
+771000119108,Chronic renal impairment due to type II diabetes mellitus
+771000119108,Diabetic chronic renal impairment due to type 2 diabetes mellitus
+771000119108,Chronic kidney disease due to type 2 diabetes mellitus
+771000119108,Chronic renal impairment due to type 2 diabetes mellitus
+771000119108,Chronic kidney disease due to type 2 diabetes mellitus (disorder)
+201000119106,Disorder associated with well controlled type 2 diabetes mellitus
+201000119106,Disorder associated with well controlled type 2 diabetes mellitus (disorder)
+201000119106,Disorder due to well controlled type 2 diabetes mellitus (disorder)
+201000119106,Disorder due to well controlled type 2 diabetes mellitus
+789570006,Neuropathic ulcer of midfoot due to type 2 diabetes mellitus
+789570006,Neuropathic ulcer of midfoot due to type 2 diabetes mellitus (disorder)
+769220000,Macular edema co-occurrent and due to type 2 diabetes mellitus
+769220000,Macular edema co-occurrent and due to type 2 diabetes mellitus (disorder)
+769220000,Macular edema due to type 2 diabetes mellitus
+769220000,Macular oedema due to type 2 diabetes mellitus
+769220000,Macular oedema co-occurrent and due to type 2 diabetes mellitus
+769220000,Macular edema due to type 2 diabetes mellitus (disorder)
+713703005,Gastroparesis due to type 2 diabetes mellitus (disorder)
+713703005,Gastroparesis due to type 2 diabetes mellitus
+713703005,Gastroparesis due to diabetes mellitus type II
+713703005,Gastroparesis co-occurrent and due to type 2 diabetes mellitus (disorder)
+713703005,Gastroparesis co-occurrent and due to type 2 diabetes mellitus
+713703005,Gastroparesis with type 2 diabetes mellitus
+472969004,History of diabetes mellitus type 2 (situation)
+472969004,History of diabetes mellitus type 2
+472969004,History of diabetes mellitus type II
+472969004,H/O diabetes mellitus type 2
+428274007,Dietary education for type II diabetes mellitus (procedure)
+428274007,Dietary education for type II diabetes mellitus
+428274007,Dietary education for type 2 diabetes mellitus
+428274007,Dietary advice for type II diabetes
+424989000,Diabetic gastroparesis associated with type 2 diabetes mellitus (disorder)
+424989000,Diabetic gastroparesis associated with type 2 diabetes mellitus
+424989000,Diabetes type 2 with gastroparesis
+424989000,Type II diabetes mellitus with gastroparesis
+424989000,Type 2 diabetes mellitus with gastroparesis
+421779007,Exudative maculopathy associated with type II diabetes mellitus (disorder)
+421779007,Exudative maculopathy associated with type II diabetes mellitus
+421779007,Exudative maculopathy associated with type 2 diabetes mellitus
+421779007,Exudative maculopathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+421779007,Exudative maculopathy with type 2 diabetes mellitus
+421779007,Exudative maculopathy co-occurrent and due to type 2 diabetes mellitus
+421779007,Exudative maculopathy due to type 2 diabetes mellitus (disorder)
+421779007,Exudative maculopathy due to type 2 diabetes mellitus
+421779007,Exudative maculopathy associated with type 2 diabetes mellitus
+421326000,Neurologic disorder associated with type II diabetes mellitus (disorder)
+421326000,Neurologic disorder associated with type II diabetes mellitus
+421326000,Neurologic disorder associated with type 2 diabetes mellitus
+421326000,Neurologic complication of adult-onset type diabetes mellitus
+421326000,Diabetes type 2 with neurological disorder
+421326000,Neurological disorder co-occurrent and due to type 2 diabetes mellitus (disorder)
+421326000,Neurological disorder co-occurrent and due to type 2 diabetes mellitus
+421326000,Neurological disorder with diabetes type 2
+421326000,Neurological disorder with type 2 diabetes mellitus
+421326000,Disorder of nervous system due to type 2 diabetes mellitus (disorder)
+421326000,Disorder of nervous system due to type 2 diabetes mellitus
+420436000,Mononeuropathy associated with type II diabetes mellitus (disorder)
+420436000,Mononeuropathy associated with type II diabetes mellitus
+420436000,Mononeuropathy associated with non-insulin dependent diabetes mellitus
+420436000,Mononeuropathy associated with type 2 diabetes mellitus
+420436000,Mononeuropathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+420436000,Mononeuropathy co-occurrent and due to type 2 diabetes mellitus
+420436000,Mononeuropathy with type 2 diabetes mellitus
+420436000,Mononeuropathy due to type 2 diabetes mellitus (disorder)
+420436000,Mononeuropathy due to type 2 diabetes mellitus
+408417004,Type 2 diabetes mellitus with exudative maculopathy (disorder)
+408417004,Type 2 diabetes mellitus with exudative maculopathy
+408417004,Type II diabetes mellitus with exudative maculopathy
+237599002,Insulin-treated non-insulin-dependent diabetes mellitus
+237599002,NIDDM - Insulin-treated non-insulin-dependent diabetes mellitus
+237599002,Insulin-treated non-insulin-dependent diabetes mellitus (disorder)
+237599002,Insulin treated Type II diabetes mellitus
+237599002,Insulin treated non-insulin dependent diabetes mellitus
+237599002,Insulin treated type 2 diabetes mellitus
+237599002,Insulin treated type 2 diabetes mellitus (disorder)
+237599002,Diabetes type 2 on insulin
+279301000000108,Diabetes type 1 review 
+279301000000108,Diabetes type 1 review
+1561000119105,Diabetic peripheral neuropathy associated with type I diabetes mellitus
+1561000119105,Diabetic peripheral neuropathy associated with type 1 diabetes mellitus
+1561000119105,Diabetic peripheral neuropathy associated with type I diabetes mellitus (disorder)
+789572003,Ulcer of midfoot due to type 1 diabetes mellitus
+789572003,Ulcer of midfoot due to type 1 diabetes mellitus (disorder)
+769219006,Macular edema due to type 1 diabetes mellitus
+769219006,Macular edema co-occurrent and due to type 1 diabetes mellitus
+769219006,Macular oedema co-occurrent and due to type 1 diabetes mellitus
+769219006,Macular oedema due to type 1 diabetes mellitus
+769219006,Macular edema co-occurrent and due to type 1 diabetes mellitus (disorder)
+769219006,Macular edema due to type 1 diabetes mellitus (disorder)
+716020005,Diabetic embryopathy (disorder)
+716020005,Diabetic embryopathy
+609564002,Pre-existing type 1 diabetes mellitus in pregnancy
+609564002,Pre-existing type 1 diabetes mellitus in pregnancy (disorder)
+422228004,Multiple complications of type I diabetes mellitus (disorder)
+422228004,Multiple complications of type I diabetes mellitus
+422228004,Multiple complications of type 1 diabetes mellitus
+422228004,Multiple complications due to type 1 diabetes mellitus (disorder)
+422228004,Multiple complications due to type 1 diabetes mellitus
+421437000,Hypoglycemic coma in type I diabetes mellitus (disorder)
+421437000,Hypoglycemic coma in type I diabetes mellitus
+421437000,Hypoglycaemic coma in type I diabetes mellitus
+421437000,Hypoglycaemic coma in type 1 diabetes mellitus
+421437000,Hypoglycemic coma in type 1 diabetes mellitus
+421437000,Diabetes type 1 with hypoglycemic coma
+421437000,Diabetes type 1 with hypoglycaemic coma
+421437000,Hypoglycemic coma due to type 1 diabetes mellitus (disorder)
+421437000,Hypoglycaemic coma due to type 1 diabetes mellitus
+421437000,Hypoglycemic coma due to type 1 diabetes mellitus
+420789003,Diabetic retinopathy associated with type I diabetes mellitus (disorder)
+420789003,Diabetic retinopathy associated with type I diabetes mellitus
+420789003,Diabetic retinopathy associated with type 1 diabetes mellitus
+420789003,Diabetes type 1 with retinopathy
+420789003,Retinopathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+420789003,Retinopathy co-occurrent and due to type 1 diabetes mellitus
+420789003,Retinopathy with type 1 diabetes mellitus
+420789003,Retinopathy due to type 1 diabetes mellitus (disorder)
+420789003,Retinopathy due to type 1 diabetes mellitus
+10661671000119102,Ulcer of right foot co-occurrent and due to diabetes mellitus type 2 (disorder)
+10661671000119102,Diabetic ulcer of right foot due to diabetes mellitus type 2
+10661671000119102,Diabetes type 2 with diabetic ulcer of right foot
+10661671000119102,Ulcer of right foot co-occurrent and due to diabetes mellitus type 2
+10661671000119102,Ulcer of right foot due to type 2 diabetes mellitus (disorder)
+10661671000119102,Ulcer of right foot due to type 2 diabetes mellitus
+81531005,NIDDM in obese
+81531005,Diabetes mellitus type 2 in obese
+81531005,Diabetes mellitus type 2 in obese (disorder)
+81531005,Type 2 diabetes mellitus in obese
+198661000000102,Type 1 diabetes mellitus with gastroparesis (disorder)
+198661000000102,Type 1 diabetes mellitus with gastroparesis
+198661000000102,Type I diabetes mellitus with gastroparesis
+401109007,Type 1 diabetes mellitus with persistent proteinuria (disorder)
+401109007,Type 1 diabetes mellitus with persistent proteinuria
+427571000,Amyotrophy due to type 1 diabetes mellitus (disorder)
+427571000,Amyotrophy due to type 1 diabetes mellitus
+427571000,Lumbosacral radiculoplexus neuropathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+427571000,Lumbosacral radiculoplexus neuropathy with type 1 diabetes mellitus
+427571000,Lumbosacral radiculoplexus neuropathy co-occurrent and due to type 1 diabetes mellitus
+427571000,Lumbosacral radiculoplexus neuropathy with type I diabetes mellitus
+427571000,Lumbosacral radiculoplexus neuropathy due to type 1 diabetes mellitus (disorder)
+427571000,Lumbosacral radiculoplexus neuropathy due to type 1 diabetes mellitus
+18521000119106,Microalbuminuria due to type 1 diabetes mellitus
+18521000119106,Microalbuminuria due to type 1 diabetes mellitus (disorder)
+43591000000102,Type I diabetes mellitus with gangrene
+43591000000102,Type I diabetes mellitus with gangrene
+71771000119100,Type 1 diabetes mellitus with neuropathic arthropathy
+71771000119100,Diabetic neuropathic arthropathy due to type 1 diabetes mellitus (disorder)
+71771000119100,Neuropathic arthropathy due to type 1 diabetes mellitus
+71771000119100,Diabetic neuropathic arthropathy due to type 1 diabetes mellitus
+71771000119100,Diabetes mellitus type 1 with diabetic Charcot's arthropathy
+71771000119100,Neuropathic arthropathy due to type 1 diabetes mellitus (disorder)
+72041000119103,Osteomyelitis due to type 1 diabetes mellitus (disorder)
+72041000119103,Osteomyelitis due to type 1 diabetes mellitus
+82581000119105,Rubeosis iridis due to type 1 diabetes mellitus
+82581000119105,Rubeosis iridis due to type 1 diabetes mellitus (disorder)
+82581000119105,Rubeosis iridis co-occurrent and due to type 1 diabetes mellitus (disorder)
+82581000119105,Rubeosis iridis with type 1 diabetes mellitus
+82581000119105,Rubeosis iridis co-occurrent and due to type 1 diabetes mellitus
+84371000119108,Hypoglycemia due to type 1 diabetes mellitus
+84371000119108,Hypoglycemia due to type 1 diabetes mellitus (disorder)
+84371000119108,Hypoglycaemia due to type 1 diabetes mellitus
+90721000119101,Chronic kidney disease stage 1 due to type 1 diabetes mellitus (disorder)
+90721000119101,Chronic kidney disease stage 1 due to type 1 diabetes mellitus
+90721000119101,Chronic kidney disease stage 1 due to type I diabetes mellitus
+90761000119106,Chronic kidney disease stage 5 due to type 1 diabetes mellitus (disorder)
+90761000119106,Chronic kidney disease stage 5 due to type 1 diabetes mellitus
+90761000119106,Chronic kidney disease stage 5 due to type I diabetes mellitus
+104941000119109,Retinal ischemia due to type 1 diabetes mellitus
+104941000119109,Retinal ischaemia due to type 1 diabetes mellitus
+104941000119109,Retinal ischemia due to type 1 diabetes mellitus (disorder)
+104941000119109,Retinal ischaemia with type 1 diabetes mellitus
+104941000119109,Retinal ischemia co-occurrent and due to type 1 diabetes mellitus (disorder)
+104941000119109,Retinal ischemia with type 1 diabetes mellitus
+104941000119109,Retinal ischaemia co-occurrent and due to type 1 diabetes mellitus
+104941000119109,Retinal ischemia co-occurrent and due to type 1 diabetes mellitus
+104941000119109,Ischemia of retina due to type 1 diabetes mellitus
+104941000119109,Ischemia of retina due to type 1 diabetes mellitus (disorder)
+104941000119109,Ischaemia of retina due to type 1 diabetes mellitus
+120711000119108,Hypoglycaemic unawareness in type 1 diabetes mellitus
+120711000119108,Hypoglycemic unawareness in type 1 diabetes mellitus
+120711000119108,Hypoglycemic unawareness in type 1 diabetes mellitus (disorder)
+120711000119108,Hypoglycaemic unawareness due to type 1 diabetes mellitus
+120711000119108,Hypoglycemic unawareness due to type 1 diabetes mellitus
+120711000119108,Hypoglycemic unawareness due to type 1 diabetes mellitus (disorder)
+138891000119109,Moderate nonproliferative retinopathy due to type 1 diabetes mellitus (disorder)
+138891000119109,Moderate nonproliferative retinopathy due to type 1 diabetes mellitus
+138891000119109,Moderate nonproliferative retinopathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+138891000119109,Moderate nonproliferative retinopathy co-occurrent and due to type 1 diabetes mellitus
+243421000119104,Proteinuria due to type 1 diabetes mellitus (disorder)
+243421000119104,Proteinuria due to type 1 diabetes mellitus
+300121000000105,Diabetes mellitus type I diet education (procedure)
+300121000000105,Dietary advice for type I diabetes
+300121000000105,Diabetes mellitus type I diet education
+367991000119101,Hyperglycemia due to type 1 diabetes mellitus
+367991000119101,Hyperglycaemia due to type 1 diabetes mellitus
+367991000119101,Hyperglycemia due to type 1 diabetes mellitus (disorder)
+368561000119102,Hyperosmolarity due to type 1 diabetes mellitus (disorder)
+368561000119102,Hyperosmolarity due to type 1 diabetes mellitus
+888201000000109,Type I diabetes mellitus in remission 
+888201000000109,Type I diabetes mellitus in remission
+16697421000119103,Moderate nonproliferative retinopathy of left eye due to diabetes mellitus type 1
+16697421000119103,Moderate nonproliferative retinopathy of left eye due to diabetes mellitus type 1 (disorder)
+16745411000119104,Mild nonproliferative retinopathy of both eyes due to diabetes mellitus type 1
+16745411000119104,Mild nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 1 (disorder)
+16745411000119104,Mild nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 1
+16745411000119104,Bilateral mild nonproliferative retinopathy due to diabetes mellitus type 1
+16746741000119102,Nonproliferative retinopathy of right eye due to diabetes mellitus type 1 (disorder)
+16746741000119102,Nonproliferative retinopathy of right eye due to diabetes mellitus type 1
+16747741000119100,Proliferative retinopathy of left eye due to diabetes mellitus type 1
+16747741000119100,Proliferative retinopathy of left eye due to diabetes mellitus type 1 (disorder)
+9859006,Insulin-resistant diabetes mellitus AND acanthosis nigricans
+9859006,Insulin-resistant diabetes mellitus and acanthosis nigricans
+9859006,Insulin-resistant diabetes mellitus AND acanthosis nigricans (disorder)
+9859006,Type 2 diabetes mellitus with acanthosis nigricans (disorder)
+9859006,Type 2 diabetes mellitus with acanthosis nigricans
+9859006,Acanthosis nigricans due to type 2 diabetes mellitus
+9859006,Acanthosis nigricans due to type 2 diabetes mellitus (disorder)
+190331003,"Diabetes mellitus, adult onset, with hyperosmolar coma"
+190331003,"Diabetes mellitus, adult onset, with hyperosmolar coma (disorder)"
+190331003,Type 2 diabetes mellitus with hyperosmolar coma (disorder)
+190331003,Type 2 diabetes mellitus with hyperosmolar coma
+190331003,Hyperosmolar coma due to type 2 diabetes mellitus (disorder)
+190331003,Hyperosmolar coma due to type 2 diabetes mellitus
+190351004,"Diabetes mellitus, adult onset, with neurological manifestation"
+190351004,"Diabetes mellitus, adult onset, with neurological manifestation (disorder)"
+190385003,Type 2 diabetes mellitus with renal complications
+190385003,Non-insulin-dependent diabetes mellitus with renal complications
+190385003,Type II diabetes mellitus with renal complications
+190385003,Type II diabetes mellitus with renal complications (disorder)
+190389009,Type 2 diabetes mellitus with ulcer
+190389009,Non-insulin-dependent diabetes mellitus with ulcer
+190389009,Type II diabetes mellitus with ulcer
+190389009,Type II diabetes mellitus with ulcer (disorder)
+314378003,Type 2 diabetes mellitus with nephropathy
+314378003,Non-insulin dependent diabetes mellitus with nephropathy
+314378003,Type II diabetes mellitus with nephropathy
+314378003,Type II diabetes mellitus with nephropathy (disorder)
+314903002,Non-insulin dependent diabetes mellitus with arthropathy
+314903002,Type 2 diabetes mellitus with arthropathy
+314903002,Type II diabetes mellitus with arthropathy
+314903002,Type II diabetes mellitus with arthropathy (disorder)
+314903002,Arthropathy due to type 2 diabetes mellitus (disorder)
+314903002,Arthropathy due to type 2 diabetes mellitus
+371056000,Type II diabetes mellitus with complication (disorder)
+371056000,Type II diabetes mellitus with complication
+401111003,Type 2 diabetes mellitus with persistent proteinuria (disorder)
+401111003,Type 2 diabetes mellitus with persistent proteinuria
+401111003,Type II diabetes mellitus with persistent proteinuria
+420279001,Renal disorder associated with type II diabetes mellitus (disorder)
+420279001,Renal disorder associated with type II diabetes mellitus
+420279001,Renal disorder associated with type 2 diabetes mellitus
+420279001,Renal disorder associated with non-insulin dependent diabetes mellitus
+420279001,Kidney disorder associated with adult-onset type diabetes mellitus
+420279001,Kidney disorder associated with type 2 diabetes mellitus
+420279001,Renal disorder due to type 2 diabetes mellitus (disorder)
+420279001,Renal disorder due to type 2 diabetes mellitus
+420279001,Diabetes type 2 with nephropathy
+420756003,Diabetic cataract associated with type II diabetes mellitus (disorder)
+420756003,Diabetic cataract associated with type II diabetes mellitus
+420756003,Diabetic cataract associated with type 2 diabetes mellitus
+420756003,Diabetes type 2 with cataract
+420756003,Cataract co-occurrent and due to diabetes mellitus type 2
+420756003,Cataract co-occurrent and due to diabetes mellitus type 2 (disorder)
+420756003,Cataract due to diabetes mellitus type 2
+420756003,Cataract of eye due to diabetes mellitus type 2 (disorder)
+420756003,Cataract of eye due to diabetes mellitus type 2
+421707005,Polyneuropathy associated with type II diabetes mellitus (disorder)
+421707005,Polyneuropathy associated with type II diabetes mellitus
+421707005,Polyneuropathy associated with type 2 diabetes mellitus
+421707005,Polyneuropathy associated with non-insulin dependent diabetes mellitus
+421707005,Polyneuropathy associated with adult-onset type diabetes mellitus
+421707005,Diabetes type 2 with diabetic polyneuropathy
+421986006,Persistent proteinuria associated with type II diabetes mellitus (disorder)
+421986006,Persistent proteinuria associated with type II diabetes mellitus
+421986006,Persistent proteinuria associated with type 2 diabetes mellitus
+421986006,Persistent proteinuria due to type 2 diabetes mellitus (disorder)
+421986006,Persistent proteinuria due to type 2 diabetes mellitus
+421986006,Persistent proteinuria associated with type 2 diabetes mellitus
+444110003,Type II diabetes mellitus well controlled (finding)
+444110003,Type II diabetes mellitus well controlled
+444110003,Type 2 diabetes mellitus well controlled
+703138006,Type II diabetes mellitus in remission (disorder)
+703138006,Type II diabetes mellitus in remission
+703138006,Type 2 diabetes mellitus in remission
+789568002,Ulcer of midfoot due to diabetes mellitus (disorder)
+789568002,Ulcer of midfoot due to diabetes mellitus
+1196922005,Neovascular glaucoma due to type II diabetes mellitus
+1196922005,Neovascular glaucoma due to diabetes mellitus type 2
+1196922005,Neovascular glaucoma due to diabetes mellitus type 2 (disorder)
+711000119100,Diabetic stage 5 chronic renal impairment associated with type 2 diabetes mellitus
+711000119100,Chronic kidney disease stage 5 associated with type 2 diabetes mellitus
+711000119100,Chronic kidney disease stage 5 due to type 2 diabetes mellitus
+711000119100,Chronic kidney disease stage 5 due to type 2 diabetes mellitus (disorder)
+711000119100,Diabetic stage 5 chronic renal impairment due to type 2 diabetes mellitus
+711000119100,Chronic kidney disease stage 5 due to type II diabetes mellitus
+711000119100,Chronic kidney disease stage 5 associated with type 2 diabetes mellitus (disorder)
+751000119104,Chronic kidney disease stage 1 associated with type 2 diabetes mellitus
+751000119104,Diabetic stage 1 chronic renal impairment associated with type 2 diabetes mellitus
+751000119104,Chronic kidney disease stage 1 due to type 2 diabetes mellitus
+751000119104,Chronic kidney disease stage 1 due to type 2 diabetes mellitus (disorder)
+751000119104,Diabetic stage 1 chronic renal impairment due to type 2 diabetes mellitus
+751000119104,Chronic kidney disease stage 1 due to type II diabetes mellitus
+751000119104,Chronic kidney disease stage 1 associated with type 2 diabetes mellitus (disorder)
+791000119109,Angina associated with type II diabetes mellitus
+791000119109,Diabetic angina pectoris associated with type 2 diabetes mellitus
+791000119109,Angina associated with type 2 diabetes mellitus
+791000119109,Angina due to type 2 diabetes mellitus
+791000119109,Angina due to type 2 diabetes mellitus (disorder)
+791000119109,Angina associated with type II diabetes mellitus (disorder)
+1511000119107,Diabetic peripheral neuropathy associated with type II diabetes mellitus
+1511000119107,Diabetic peripheral neuropathy associated with type 2 diabetes mellitus
+1511000119107,Peripheral neuropathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+1511000119107,Peripheral neuropathy co-occurrent and due to type 2 diabetes mellitus
+1511000119107,Peripheral neuropathy with type 2 diabetes
+1511000119107,Peripheral neuropathy due to type 2 diabetes mellitus (disorder)
+1511000119107,Peripheral neuropathy due to type 2 diabetes mellitus
+1511000119107,Diabetic peripheral neuropathy associated with type II diabetes mellitus (disorder)
+1551000119108,Nonproliferative diabetic retinopathy associated with type II diabetes mellitus
+1551000119108,Nonproliferative diabetic retinopathy associated with type 2 diabetes mellitus
+1551000119108,Nonproliferative diabetic retinopathy due to type II diabetes mellitus
+1551000119108,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+1551000119108,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus
+1551000119108,Nonproliferative retinopathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+1551000119108,Nonproliferative retinopathy co-occurrent and due to type 2 diabetes mellitus
+1551000119108,Nonproliferative retinopathy due to type 2 diabetes mellitus (disorder)
+1551000119108,Nonproliferative retinopathy due to type 2 diabetes mellitus
+1551000119108,Nonproliferative diabetic retinopathy associated with type II diabetes mellitus (disorder)
+43901000000104,Type II diabetes mellitus with neuropathic arthropathy
+43901000000104,Type II diabetes mellitus with neuropathic arthropathy
+71441000119104,Nephrotic syndrome due to type 2 diabetes mellitus
+71441000119104,Nephrotic syndrome due to type 2 diabetes mellitus (disorder)
+82551000119103,Rubeosis iridis due to type 2 diabetes mellitus
+82551000119103,Rubeosis iridis due to type 2 diabetes mellitus (disorder)
+82551000119103,Rubeosis iridis co-occurrent and due to type 2 diabetes mellitus (disorder)
+82551000119103,Rubeosis iridis with type 2 diabetes mellitus
+82551000119103,Rubeosis iridis co-occurrent and due to type 2 diabetes mellitus
+83231000000105,Type 2 diabetes mellitus with persistent proteinuria
+83231000000105,Type 2 diabetes mellitus with persistent proteinuria
+87441000119104,Ankle ulcer due to type 2 diabetes mellitus (disorder)
+87441000119104,Ankle ulcer due to type 2 diabetes mellitus
+87441000119104,Ulcer of ankle due to type 2 diabetes mellitus (disorder)
+87441000119104,Ulcer of ankle due to type 2 diabetes mellitus
+90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder)
+90781000119102,Microalbuminuria due to type 2 diabetes mellitus
+97621000119107,Stasis ulcer due to type 2 diabetes mellitus (disorder)
+97621000119107,Stasis ulcer due to type 2 diabetes mellitus
+108791000119108,Suspected glaucoma due to type 2 diabetes mellitus (situation)
+108791000119108,Suspected glaucoma due to type 2 diabetes mellitus
+119831000119106,Hypoglycemia unawareness in type 2 diabetes mellitus (disorder)
+119831000119106,Hypoglycemia unawareness in type 2 diabetes mellitus
+119831000119106,Hypoglycaemia unawareness in type 2 diabetes mellitus
+119831000119106,Hypoglycemia unawareness due to type 2 diabetes mellitus
+119831000119106,Hypoglycemia unawareness due to type 2 diabetes mellitus (disorder)
+119831000119106,Hypoglycaemia unawareness due to type 2 diabetes mellitus
+140121000119100,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus
+140121000119100,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus (disorder)
+140121000119100,Hypertension in chronic kidney disease stage 3 due to type II diabetes mellitus
+140521000119107,Ischemic foot ulcer due to type 2 diabetes mellitus (disorder)
+140521000119107,Ischemic foot ulcer due to type 2 diabetes mellitus
+140521000119107,Ischaemic foot ulcer due to type 2 diabetes mellitus
+140521000119107,Ischemic ulcer of foot due to type 2 diabetes mellitus (disorder)
+140521000119107,Ischaemic ulcer of foot due to type 2 diabetes mellitus
+140521000119107,Ischemic ulcer of foot due to type 2 diabetes mellitus
+279341000000106,Diabetes type 2 review 
+279341000000106,Diabetes type 2 review
+368591000119109,Cheiropathy due to type 2 diabetes mellitus (disorder)
+368591000119109,Cheiropathy due to type 2 diabetes mellitus
+368591000119109,Cheiroarthropathy due to type 2 diabetes mellitus
+368591000119109,Diabetic hand syndrome due to type 2 diabetes mellitus
+368591000119109,Cheiroarthropathy due to diabetes mellitus type 2
+368591000119109,Cheiroarthropathy due to diabetes mellitus type 2 (disorder)
+888211000000106,Type II diabetes mellitus in remission (disorder)
+888211000000106,Type II diabetes mellitus in remission
+888211000000106,Type 2 diabetes mellitus in remission
+10656271000119102,Skin ulcer of toe due to diabetes mellitis type 2
+10656271000119102,"Diabetes type 2 with diabetic ulcer of toe, skin breakdown"
+10656271000119102,Skin ulcer of toe due to diabetes mellitis type 2 (disorder)
+10656271000119102,Skin ulcer of toe due to diabetes mellitus type 2 (disorder)
+10656271000119102,Skin ulcer of toe due to diabetes mellitus type 2
+10656271000119102,Ulcer of skin of toe due to type 2 diabetes mellitus (disorder)
+10656271000119102,Ulcer of skin of toe due to type 2 diabetes mellitus
+16745051000119107,Nonproliferative retinopathy of right eye due to diabetes mellitus type 2 (disorder)
+16745051000119107,Nonproliferative retinopathy of right eye due to diabetes mellitus type 2
+16745931000119102,Mild nonproliferative retinopathy of both eyes due to diabetes mellitus type 2
+16745931000119102,Mild nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 2 (disorder)
+16745931000119102,Mild nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 2
+16745931000119102,Bilateral mild nonproliferative retinopathy due to diabetes mellitus type 2
+16746901000119101,Severe nonproliferative retinopathy of left eye due to diabetes mellitus type 2 (disorder)
+16746901000119101,Severe nonproliferative retinopathy of left eye due to diabetes mellitus type 2
+16747901000119104,Proliferative retinopathy of left eye due to diabetes mellitus type 2 (disorder)
+16747901000119104,Proliferative retinopathy of left eye due to diabetes mellitus type 2
+237627000,Pregnancy and NIDDM
+237627000,Pregnancy and non-insulin-dependent diabetes mellitus
+237627000,Pregnancy and non-insulin-dependent diabetes mellitus (disorder)
+237627000,Pregnancy and type 2 diabetes mellitus
+237627000,Pregnancy and type 2 diabetes mellitus (disorder)
+190403008,Type II diabetes mellitus with neuropathic arthropathy
+190403008,Type II diabetes mellitus with neuropathic arthropathy
+190403008,Type II diabetes mellitus with neuropathic arthropathy (disorder)
+60971000119101,Proliferative retinopathy due to type 1 diabetes mellitus
+60971000119101,Proliferative retinopathy due to type 1 diabetes mellitus (disorder)
+60971000119101,Proliferative retinopathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+60971000119101,Proliferative retinopathy with type 1 diabetes mellitus
+60971000119101,Proliferative retinopathy co-occurrent and due to type 1 diabetes mellitus
+1217068008,Fulminant type 1 diabetes mellitus (disorder)
+1217068008,Fulminant type 1 diabetes mellitus
+789542009,Neuropathy due to type 1 diabetes mellitus
+789542009,Neuropathy due to type 1 diabetes mellitus (disorder)
+722454003,"Intellectual disability, craniofacial dysmorphism, hypogonadism, diabetes mellitus syndrome (disorder)"
+722454003,"Intellectual disability, craniofacial dysmorphism, hypogonadism, diabetes mellitus syndrome"
+722454003,Mental retardation syndrome Belgian type
+713702000,Gastroparesis due to type 1 diabetes mellitus
+713702000,Gastroparesis due to diabetes mellitus type I
+713702000,Gastroparesis due to type 1 diabetes mellitus (disorder)
+713702000,Gastroparesis co-occurrent and due to type 1 diabetes mellitus (disorder)
+713702000,Gastroparesis with type 1 diabetes mellitus
+713702000,Gastroparesis co-occurrent and due to type 1 diabetes mellitus
+703137001,Type I diabetes mellitus in remission (disorder)
+703137001,Type I diabetes mellitus in remission
+703137001,Type 1 diabetes mellitus in remission
+444074000,Type I diabetes mellitus well controlled (finding)
+444074000,Type I diabetes mellitus well controlled
+444074000,Type 1 diabetes mellitus well controlled
+425159004,Diabetic gastroparesis associated with type 1 diabetes mellitus (disorder)
+425159004,Diabetic gastroparesis associated with type 1 diabetes mellitus
+425159004,Diabetes type 1 with gastroparesis
+425159004,Type I diabetes mellitus with gastroparesis
+425159004,Type 1 diabetes mellitus with gastroparesis
+421893009,Renal disorder associated with type I diabetes mellitus (disorder)
+421893009,Renal disorder associated with type I diabetes mellitus
+421893009,Renal disorder associated with type 1 diabetes mellitus
+421893009,Kidney disorder associated with juvenile-onset type diabetes mellitus
+421893009,Renal disorder associated with insulin dependent diabetes mellitus
+421893009,Kidney disorder associated with type 1 diabetes mellitus
+421893009,Renal disorder due to type 1 diabetes mellitus
+421893009,Renal disorder due to type 1 diabetes mellitus (disorder)
+421305000,Persistent microalbuminuria associated with type I diabetes mellitus (disorder)
+421305000,Persistent microalbuminuria associated with type I diabetes mellitus
+421305000,Persistent microalbuminuria associated with type 1 diabetes mellitus
+421305000,Persistent microalbuminuria due to type 1 diabetes mellitus (disorder)
+421305000,Persistent microalbuminuria due to type 1 diabetes mellitus
+420868002,Disorder associated with type I diabetes mellitus (disorder)
+420868002,Disorder associated with type I diabetes mellitus
+420868002,Complication of type I diabetes mellitus
+420868002,Complication of juvenile-onset type diabetes mellitus
+420868002,Complication of insulin-dependent diabetes mellitus
+420868002,Disorder associated with type 1 diabetes mellitus
+420868002,Disorder due to type 1 diabetes mellitus
+420868002,Disorder due to type 1 diabetes mellitus (disorder)
+420486006,Exudative maculopathy associated with type I diabetes mellitus (disorder)
+420486006,Exudative maculopathy associated with type I diabetes mellitus
+420486006,Exudative maculopathy associated with type 1 diabetes mellitus
+420486006,Exudative maculopathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+420486006,Exudative maculopathy co-occurrent and due to type 1 diabetes mellitus
+420486006,Exudative maculopathy with type 1 diabetes mellitus
+420486006,Exudative maculopathy due to type 1 diabetes mellitus (disorder)
+420486006,Exudative maculopathy due to type 1 diabetes mellitus
+314893005,Type 1 diabetes mellitus with arthropathy
+314893005,Insulin dependent diabetes mellitus with arthropathy
+314893005,Type I diabetes mellitus with arthropathy
+314893005,Type I diabetes mellitus with arthropathy (disorder)
+314893005,Arthropathy due to type 1 diabetes mellitus (disorder)
+314893005,Arthropathy due to type 1 diabetes mellitus
+314377008,Type I diabetes mellitus with nephropathy
+314377008,Type 1 diabetes mellitus with nephropathy
+314377008,Insulin dependent diabetes mellitus with nephropathy
+314377008,Type I diabetes mellitus with nephropathy (disorder)
+290002008,Unstable type I diabetes mellitus
+290002008,Unstable type 1 diabetes mellitus
+290002008,Unstable insulin dependent diabetes mellitus
+290002008,Unstable type I diabetes mellitus (disorder)
+290002008,Brittle type I diabetes mellitus (finding)
+290002008,Brittle type 1 diabetes mellitus
+290002008,Brittle type I diabetes mellitus
+290002008,Labile type I diabetes mellitus
+190371008,Type 1 diabetes mellitus - poor control
+190371008,Insulin-dependent diabetes mellitus - poor control
+190371008,Type I diabetes mellitus - poor control
+190371008,Type I diabetes mellitus - poor control (disorder)
+190367005,Unstable type I diabetes mellitus
+190367005,Unstable type I diabetes mellitus
+190367005,Unstable type I diabetes mellitus (disorder)
+190363009,Type I diabetes mellitus with renal complications
+190363009,Type 1 diabetes mellitus with renal complications
+190363009,Insulin-dependent diabetes mellitus with renal complications
+190363009,Type I diabetes mellitus with renal complications (disorder)
+190345009,"Diabetes mellitus, juvenile type, with ophthalmic manifestation"
+190345009,"Diabetes mellitus, juvenile type, with ophthalmic manifestation (disorder)"
+190325001,"Diabetes mellitus, juvenile type, with ketoacidosis"
+190325001,"Diabetes mellitus, juvenile type, with ketoacidosis (disorder)"
+198671000000109,Type 2 diabetes mellitus with gastroparesis (disorder)
+198671000000109,Type 2 diabetes mellitus with gastroparesis
+198671000000109,Type II diabetes mellitus with gastroparesis
+138911000119106,Mild nonproliferative retinopathy due to type 2 diabetes mellitus
+138911000119106,Mild nonproliferative retinopathy due to type 2 diabetes mellitus (disorder)
+138911000119106,Mild nonproliferative retinopathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+138911000119106,Mild nonproliferative retinopathy co-occurrent and due to type 2 diabetes mellitus
+719216001,Hypoglycemic coma co-occurrent and due to diabetes mellitus type II (disorder)
+719216001,Hypoglycemic coma co-occurrent and due to diabetes mellitus type II
+719216001,Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II
+719216001,Hypoglycemic coma due to type 2 diabetes mellitus
+719216001,Hypoglycaemic coma due to type 2 diabetes mellitus
+719216001,Hypoglycemic coma due to type 2 diabetes mellitus (disorder)
+427134009,Small vessel disease due to type 2 diabetes mellitus (disorder)
+427134009,Small vessel disease due to type 2 diabetes mellitus
+422166005,Peripheral circulatory disorder associated with type II diabetes mellitus (disorder)
+422166005,Peripheral circulatory disorder associated with type II diabetes mellitus
+422166005,Peripheral circulatory disorder associated with type 2 diabetes mellitus
+422166005,Peripheral circulatory disorder associated with non-insulin dependent diabetes mellitus
+422166005,Peripheral circulatory disorder associated with adult-onset type diabetes mellitus
+422166005,Peripheral circulatory disorder due to type 2 diabetes mellitus (disorder)
+422166005,Peripheral circulatory disorder due to type 2 diabetes mellitus
+28331000119107,Retinal oedema due to type 2 diabetes mellitus
+28331000119107,Retinal edema due to type 2 diabetes mellitus
+28331000119107,Retinal edema due to type 2 diabetes mellitus (disorder)
+28331000119107,Retinal oedema co-occurrent and due to type 2 diabetes mellitus
+28331000119107,Retinal oedema with type 2 diabetes mellitus
+28331000119107,Retinal edema co-occurrent and due to type 2 diabetes mellitus (disorder)
+28331000119107,Retinal edema with type 2 diabetes mellitus
+28331000119107,Retinal edema co-occurrent and due to type 2 diabetes mellitus
+313435000,Type I diabetes mellitus without complication
+313435000,Type 1 diabetes mellitus without complication
+313435000,Insulin-dependent diabetes without complication
+313435000,Type I diabetes mellitus without complication (disorder)
+401110002,Type 1 diabetes mellitus with persistent microalbuminuria (disorder)
+401110002,Type 1 diabetes mellitus with persistent microalbuminuria
+706891008,Neuropathy due to brittle type I diabetes mellitus
+706891008,Neuropathy due to unstable diabetes mellitus type 1 (disorder)
+706891008,Neuropathy due to unstable diabetes mellitus type 1
+691000119103,Erectile dysfunction associated with type I diabetes mellitus
+691000119103,Diabetic erectile dysfunction associated with type 1 diabetes mellitus
+691000119103,Erectile dysfunction co-occurrent and due to type 1 diabetes mellitus (disorder)
+691000119103,Erectile dysfunction with type 1 diabetes mellitus
+691000119103,Erectile dysfunction co-occurrent and due to type 1 diabetes mellitus
+691000119103,Erectile dysfunction due to type 1 diabetes mellitus (disorder)
+691000119103,Erectile dysfunction due to type 1 diabetes mellitus
+691000119103,Erectile dysfunction associated with type I diabetes mellitus (disorder)
+43611000000105,Type I diabetes mellitus - poor control
+43611000000105,Type I diabetes mellitus - poor control
+71791000119104,Peripheral neuropathy due to type 1 diabetes mellitus
+71791000119104,Peripheral neuropathy due to type 1 diabetes mellitus (disorder)
+71791000119104,Peripheral neuropathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+71791000119104,Peripheral neuropathy co-occurrent and due to type 1 diabetes mellitus
+71791000119104,Peripheral neuropathy with type 1 diabetes mellitus
+72141000119104,Chronic ulcer of skin due to type 1 diabetes mellitus
+72141000119104,Chronic ulcer of skin due to type 1 diabetes mellitus (disorder)
+82881000000104,Unstable type I diabetes mellitus
+82881000000104,Unstable type I diabetes mellitus
+87471000119106,Ankle ulcer due to type 1 diabetes mellitus (disorder)
+87471000119106,Ankle ulcer due to type 1 diabetes mellitus
+87471000119106,Ulcer of ankle due to type 1 diabetes mellitus (disorder)
+87471000119106,Ulcer of ankle due to type 1 diabetes mellitus
+90731000119103,Chronic kidney disease stage 2 due to type 1 diabetes mellitus
+90731000119103,Chronic kidney disease stage 2 due to type 1 diabetes mellitus (disorder)
+90731000119103,Chronic kidney disease stage 2 due to type I diabetes mellitus
+90771000119100,End stage renal disease on dialysis due to type 1 diabetes mellitus (disorder)
+90771000119100,End stage renal disease on dialysis due to type 1 diabetes mellitus
+104951000119106,Vitreous haemorrhage due to type 1 diabetes mellitus
+104951000119106,Diabetic vitreous hemorrhage due to type 1 diabetes mellitus (disorder)
+104951000119106,Vitreous hemorrhage due to type 1 diabetes mellitus
+104951000119106,Diabetic vitreous hemorrhage due to type 1 diabetes mellitus
+104951000119106,Diabetic vitreous haemorrhage due to type 1 diabetes mellitus
+104951000119106,Vitreous hemorrhage with type 1 diabetes mellitus
+104951000119106,Vitreous hemorrhage co-occurrent and due to type 1 diabetes mellitus (disorder)
+104951000119106,Vitreous hemorrhage co-occurrent and due to type 1 diabetes mellitus
+104951000119106,Vitreous haemorrhage co-occurrent and due to type 1 diabetes mellitus
+104951000119106,Vitreous haemorrhage with type 1 diabetes mellitus
+104951000119106,Vitreous hemorrhage due to type 1 diabetes mellitus (disorder)
+128001000119105,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus (disorder)
+128001000119105,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus
+164881000119109,Foot ulcer due to type 1 diabetes mellitus (disorder)
+164881000119109,Foot ulcer due to type 1 diabetes mellitus
+164881000119109,Ulcer of foot due to type 1 diabetes mellitus (disorder)
+164881000119109,Ulcer of foot due to type 1 diabetes mellitus
+335631000000104,Latent autoimmune diabetes mellitus in adult (disorder)
+335631000000104,Latent autoimmune diabetes mellitus in adult
+368521000119107,Disorder of nerve co-occurrent and due to type 1 diabetes mellitus (disorder)
+368521000119107,Disorder of nerve co-occurrent and due to type 1 diabetes mellitus
+754461000000105,Referral to type I diabetes structured education programme (procedure)
+754461000000105,Referral to type I diabetes structured education programme
+754461000000105,Referral to type 1 diabetes structured education programme
+16697471000119102,Moderate nonproliferative retinopathy of right eye due to diabetes mellitus type 1 (disorder)
+16697471000119102,Moderate nonproliferative retinopathy of right eye due to diabetes mellitus type 1
+16745611000119102,Mild nonproliferative retinopathy of right eye due to diabetes mellitus type 1
+16745611000119102,Mild nonproliferative retinopathy of right eye due to diabetes mellitus type 1 (disorder)
+16746941000119104,Severe nonproliferative retinopathy of left eye due to diabetes mellitus type 1 (disorder)
+16746941000119104,Severe nonproliferative retinopathy of left eye due to diabetes mellitus type 1
+16748741000119101,Proliferative retinopathy of right eye due to diabetes mellitus type 1
+16748741000119101,Proliferative retinopathy of right eye due to diabetes mellitus type 1 (disorder)
+190335007,"Diabetes mellitus, adult onset, with ketoacidotic coma"
+190335007,"Diabetes mellitus, adult onset, with ketoacidotic coma (disorder)"
+190335007,Type II diabetes mellitus with ketoacidotic coma
+190356009,"Diabetes mellitus, adult onset, with peripheral circulatory disorder"
+190356009,"Diabetes mellitus, adult onset, with peripheral circulatory disorder (disorder)"
+190386002,Type II diabetes mellitus with ophthalmic complications
+190386002,Type 2 diabetes mellitus with ophthalmic complications
+190386002,Non-insulin-dependent diabetes mellitus with ophthalmic complications
+190386002,Type II diabetes mellitus with ophthalmic complications (disorder)
+190390000,Type II diabetes mellitus with gangrene
+190390000,Type 2 diabetes mellitus with gangrene
+190390000,Non-insulin-dependent diabetes mellitus with gangrene
+190390000,Type II diabetes mellitus with gangrene (disorder)
+313436004,Non-insulin-dependent diabetes mellitus without complication
+313436004,Type 2 diabetes mellitus without complication
+313436004,Type II diabetes mellitus without complication
+313436004,Type II diabetes mellitus without complication (disorder)
+314904008,Type II diabetes mellitus with neuropathic arthropathy
+314904008,Type 2 diabetes mellitus with neuropathic arthropathy
+314904008,Non-insulin dependent diabetes mellitus with neuropathic arthropathy
+314904008,Type II diabetes mellitus with neuropathic arthropathy (disorder)
+401112005,Type 2 diabetes mellitus with persistent microalbuminuria (disorder)
+401112005,Type 2 diabetes mellitus with persistent microalbuminuria
+401112005,Type II diabetes mellitus with persistent microalbuminuria
+420414003,Multiple complications of type II diabetes mellitus (disorder)
+420414003,Multiple complications of type II diabetes mellitus
+420414003,Multiple complications of type 2 diabetes mellitus
+421164006,Hypoglycemic coma in type II diabetes mellitus (disorder)
+421164006,Hypoglycemic coma in type II diabetes mellitus
+421164006,Hypoglycaemic coma in type II diabetes mellitus
+421164006,Hypoglycemic coma in type 2 diabetes mellitus
+421164006,Hypoglycaemic coma in type 2 diabetes mellitus
+422014003,Disorder associated with type II diabetes melliltus (disorder)
+422014003,Disorder associated with type II diabetes melliltus
+422014003,Complication of type II diabetes mellitus
+422014003,Complication of adult-onset type diabetes mellitus
+422014003,Disorder associated with type 2 diabetes mellitus (disorder)
+422014003,Disorder associated with type 2 diabetes mellitus
+422014003,Disorder associated with type II diabetes mellitus
+422014003,Disorder due to type 2 diabetes mellitus (disorder)
+422014003,Disorder due to type 2 diabetes mellitus
+422014003,Disorder due to type II diabetes mellitus
+712883005,Diabetic autonomic neuropathy due to type 2 diabetes mellitus
+712883005,Diabetic autonomic neuropathy due to type 2 diabetes mellitus (disorder)
+712883005,Autonomic neuropathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+712883005,Autonomic neuropathy with type 2 diabetes mellitus
+712883005,Autonomic neuropathy co-occurrent and due to type 2 diabetes mellitus
+712883005,Autonomic neuropathy with type II diabetes mellitus
+712883005,Autonomic neuropathy due to type 2 diabetes mellitus (disorder)
+712883005,Autonomic neuropathy due to type 2 diabetes mellitus
+721284006,Acidosis due to type 2 diabetes mellitus (disorder)
+721284006,Acidosis due to type 2 diabetes mellitus
+789569005,Neuropathic ulcer of heel due to type 2 diabetes mellitus
+789569005,Neuropathic ulcer of heel due to type 2 diabetes mellitus (disorder)
+1217044000,Ketosis-resistant diabetes mellitus
+1217044000,Ketosis-resistant diabetes mellitus (disorder)
+721000119107,Diabetic stage 4 chronic renal impairment associated with type 2 diabetes mellitus
+721000119107,Chronic kidney disease stage 4 associated with type 2 diabetes mellitus
+721000119107,Diabetic stage 4 chronic renal impairment due to type 2 diabetes mellitus
+721000119107,Chronic kidney disease stage 4 due to type 2 diabetes mellitus (disorder)
+721000119107,Chronic kidney disease stage 4 due to type 2 diabetes mellitus
+721000119107,Chronic kidney disease stage 4 due to type II diabetes mellitus
+721000119107,Chronic kidney disease stage 4 associated with type 2 diabetes mellitus (disorder)
+761000119102,Diabetic dyslipidemia associated with type 2 diabetes mellitus
+761000119102,Dyslipidemia associated with type II diabetes mellitus
+761000119102,Dyslipidemia due to type 2 diabetes mellitus (disorder)
+761000119102,Dyslipidemia due to type 2 diabetes mellitus
+761000119102,Dyslipidemia associated with type II diabetes mellitus (disorder)
+1481000119100,Diabetes mellitus type 2 without retinopathy
+1481000119100,Diabetes mellitus type 2 without retinopathy (disorder)
+1521000119100,Diabetic foot ulcer associated with type 2 diabetes mellitus
+1521000119100,Diabetic foot ulcer associated with type II diabetes mellitus
+1521000119100,Foot ulcer due to type 2 diabetes mellitus
+1521000119100,Foot ulcer due to type 2 diabetes mellitus (disorder)
+1521000119100,Foot ulcer due to type II diabetes mellitus
+1521000119100,Ulcer of foot due to type 2 diabetes mellitus (disorder)
+1521000119100,Ulcer of foot due to type 2 diabetes mellitus
+1521000119100,Diabetic foot ulcer associated with type II diabetes mellitus (disorder)
+41911000119107,Glaucoma due to type 2 diabetes mellitus (disorder)
+41911000119107,Glaucoma due to type 2 diabetes mellitus
+43921000000108,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+43921000000108,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+72051000119101,Severe malnutrition due to type 2 diabetes mellitus
+72051000119101,Severe malnutrition due to type 2 diabetes mellitus (disorder)
+83101000000108,Type II diabetes mellitus with gangrene
+83101000000108,Type II diabetes mellitus with gangrene
+83241000000101,Type 2 diabetes mellitus with persistent microalbuminuria
+83241000000101,Type 2 diabetes mellitus with persistent microalbuminuria
+87451000119102,Heel AND/OR midfoot ulcer due to type 2 diabetes mellitus
+87451000119102,Heel AND/OR midfoot ulcer due to type 2 diabetes mellitus (disorder)
+90791000119104,End stage renal disease on dialysis due to type 2 diabetes mellitus (disorder)
+90791000119104,End stage renal disease on dialysis due to type 2 diabetes mellitus
+102621000119101,Skin ulcer due to type 2 diabetes mellitus
+102621000119101,Ulcer of skin co-occurrent and due to type II diabetes mellitus
+102621000119101,Ulcer of skin co-occurrent and due to type 2 diabetes mellitus (disorder)
+102621000119101,Ulcer of skin co-occurrent and due to type 2 diabetes mellitus
+102621000119101,Ulcer of skin due to type 2 diabetes mellitus (disorder)
+102621000119101,Ulcer of skin due to type 2 diabetes mellitus
+110171000119107,Leg ulcer due to type 2 diabetes mellitus
+110171000119107,Ulcer of lower extremity due to type 2 diabetes mellitus
+110171000119107,Ulcer of lower extremity due to diabetes mellitus type 2 (disorder)
+110171000119107,Ulcer of lower extremity due to diabetes mellitus type 2
+110171000119107,Ulcer of lower limb due to type 2 diabetes mellitus
+110171000119107,Ulcer of lower limb due to type 2 diabetes mellitus (disorder)
+120731000119103,Hypoglycemia due to type 2 diabetes mellitus (disorder)
+120731000119103,Hypoglycemia due to type 2 diabetes mellitus
+120731000119103,Hypoglycaemia due to type 2 diabetes mellitus
+140131000119102,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus (disorder)
+140131000119102,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus
+140131000119102,Hypertension in chronic kidney disease stage 2 due to type II diabetes mellitus
+140531000119105,Neuropathic foot ulcer due to type 2 diabetes mellitus (disorder)
+140531000119105,Neuropathic foot ulcer due to type 2 diabetes mellitus
+140531000119105,Neuropathic ulcer of foot due to type 2 diabetes mellitus (disorder)
+140531000119105,Neuropathic ulcer of foot due to type 2 diabetes mellitus
+214001000000102,Type 2 diabetes mellitus with gastroparesis
+214001000000102,Type 2 diabetes mellitus with gastroparesis
+300131000000107,Diabetes mellitus type II diet education (procedure)
+300131000000107,Dietary advice for type II diabetes
+300131000000107,Diabetes mellitus type II diet education
+754121000000107,Type II diabetic dietary review (regime/therapy)
+754121000000107,Type II diabetic dietary review
+754121000000107,Type 2 diabetic dietary review
+888221000000100,Type II diabetes mellitus in remission 
+888221000000100,Type II diabetes mellitus in remission
+888221000000100,Type 2 diabetes mellitus in remission
+10660471000119109,Ulcer of left foot co-occurrent and due to diabetes mellitus type 2 (disorder)
+10660471000119109,Diabetic ulcer of left foot due to diabetes mellitus type 2
+10660471000119109,Ulcer of left foot co-occurrent and due to diabetes mellitus type 2
+10660471000119109,Diabetes type 2 with diabetic ulcer of left foot
+10660471000119109,Ulcer of left foot due to type 2 diabetes mellitus
+10660471000119109,Ulcer of left foot due to type 2 diabetes mellitus (disorder)
+16745131000119100,Nonproliferative retinopathy of left eye due to diabetes mellitus type 2 (disorder)
+16745131000119100,Nonproliferative retinopathy of left eye due to diabetes mellitus type 2
+16746131000119105,Moderate nonproliferative retinopathy of left eye due to diabetes mellitus type 2 (disorder)
+16746131000119105,Moderate nonproliferative retinopathy of left eye due to diabetes mellitus type 2
+16747021000119109,Bilateral severe nonproliferative retinopathy of eyes due to diabetes mellitus type 2
+16747021000119109,Severe nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 2 (disorder)
+16747021000119109,Severe nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 2
+16747021000119109,Severe nonproliferative retinopathy of both eyes due to diabetes mellitus type 2
+16748141000119100,Proliferative retinopathy of bilateral eyes due to diabetes mellitus type 2
+16748141000119100,Proliferative retinopathy of bilateral eyes due to diabetes mellitus type 2 (disorder)
+16748141000119100,Proliferative retinopathy of both eyes due to diabetes mellitus type 2
+16748141000119100,Bilateral proliferative retinopathy due to diabetes mellitus type 2
+199230006,"Pre-existing diabetes mellitus, non-insulin-dependent"
+199230006,"Pre-existing diabetes mellitus, non-insulin-dependent (disorder)"
+199230006,Pre-existing type 2 diabetes mellitus
+199230006,Pre-existing type 2 diabetes mellitus (disorder)
+44054006,Diabetes mellitus type II
+44054006,Non-insulin dependent diabetes mellitus
+44054006,NCDMM
+44054006,Type 2 diabetes mellitus
+44054006,NIDDM
+44054006,Diabetes mellitus type 2
+44054006,Non-insulin-dependent diabetes mellitus
+44054006,Maturity onset diabetes mellitus
+44054006,NIDDM - Non-insulin dependent diabetes mellitus
+44054006,Type II diabetes mellitus
+44054006,Diabetes mellitus - adult onset
+44054006,Diabetes mellitus type 2 (disorder)
+44054006,T2DM - diabetes mellitus type 2
+44054006,Maturity onset diabetes
+1051101000000103,Pregnancy and insulin-dependent diabetes mellitus
+1051101000000103,Pregnancy and insulin-dependent diabetes mellitus
+279291000000109,Diabetes type 1 review (regime/therapy)
+279291000000109,Diabetes type 1 review
+60991000119100,Blindness due to type 1 diabetes mellitus (disorder)
+60991000119100,Blindness due to type 1 diabetes mellitus
+60991000119100,Blindness co-occurrent and due to type 1 diabetes mellitus (disorder)
+60991000119100,Blindness co-occurrent and due to type 1 diabetes mellitus
+31211000119101,Peripheral vascular disease due to type I diabetes
+31211000119101,Peripheral angiopathy due to type 1 diabetes mellitus (disorder)
+31211000119101,Peripheral angiopathy due to type 1 diabetes mellitus
+789571005,Ulcer of heel due to type 1 diabetes mellitus
+789571005,Ulcer of heel due to type 1 diabetes mellitus (disorder)
+739681000,Diabetic oculopathy due to type I diabetes mellitus
+739681000,Diabetic oculopathy due to type I diabetes mellitus (disorder)
+739681000,Diabetic oculopathy due to type 1 diabetes mellitus
+739681000,Disorder of eye co-occurrent and due to type 1 diabetes mellitus (disorder)
+739681000,Disorder of eye co-occurrent and due to type 1 diabetes mellitus
+739681000,Disorder of eye with type 1 diabetes mellitus
+739681000,Disorder of eye due to type 1 diabetes mellitus (disorder)
+739681000,Disorder of eye due to type 1 diabetes mellitus
+713705003,Polyneuropathy due to type 1 diabetes mellitus
+713705003,Polyneuropathy due to diabetes mellitus type I
+713705003,Polyneuropathy due to type 1 diabetes mellitus (disorder)
+713705003,Polyneuropathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+713705003,Polyneuropathy co-occurrent and due to type 1 diabetes mellitus
+472970003,History of diabetes mellitus type 1 (situation)
+472970003,History of diabetes mellitus type I
+472970003,History of diabetes mellitus type 1
+472970003,H/O diabetes mellitus type 1
+428896009,Hyperosmolality due to uncontrolled type 1 diabetes mellitus (disorder)
+428896009,Hyperosmolality due to uncontrolled type 1 diabetes mellitus
+425442003,Diabetic autonomic neuropathy associated with type 1 diabetes mellitus (disorder)
+425442003,Type 1 diabetic autonomic neuropathy
+425442003,Diabetic autonomic neuropathy associated with type 1 diabetes mellitus
+421920002,Diabetic cataract associated with type I diabetes mellitus (disorder)
+421920002,Diabetic cataract associated with type I diabetes mellitus
+421920002,Diabetic cataract associated with type 1 diabetes mellitus
+421920002,Diabetes type 1 with cataract
+421920002,Cataract co-occurrent and due to diabetes mellitus type 1
+421920002,Cataract co-occurrent and due to diabetes mellitus type 1 (disorder)
+421920002,Cataract due to diabetes mellitus type 1
+421920002,Cataract of eye due to diabetes mellitus type 1 (disorder)
+421920002,Cataract of eye due to diabetes mellitus type 1
+421365002,Peripheral circulatory disorder associated with type I diabetes mellitus (disorder)
+421365002,Peripheral circulatory disorder associated with type I diabetes mellitus
+421365002,Peripheral circulatory disorder associated with juvenile-onset type diabetes mellitus
+421365002,Peripheral circulatory disorder associated with insulin-dependent diabetes mellitus
+421365002,Peripheral circulatory disorder associated with type 1 diabetes mellitus
+421365002,Peripheral circulatory disorder due to type 1 diabetes mellitus (disorder)
+421365002,Peripheral circulatory disorder due to type 1 diabetes mellitus
+420918009,Mononeuropathy associated with type I diabetes mellitus (disorder)
+420918009,Mononeuropathy associated with type I diabetes mellitus
+420918009,Mononeuropathy associated with type 1 diabetes mellitus
+420918009,Mononeuropathy associated with juvenile type diabetes mellitus
+420918009,Mononeuropathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+420918009,Mononeuropathy with type 1 diabetes mellitus
+420918009,Mononeuropathy co-occurrent and due to type 1 diabetes mellitus
+420918009,Mononeuropathy due to type 1 diabetes mellitus (disorder)
+420918009,Mononeuropathy due to type 1 diabetes mellitus
+420514000,Persistent proteinuria associated with type I diabetes mellitus (disorder)
+420514000,Persistent proteinuria associated with type I diabetes mellitus
+420514000,Persistent proteinuria associated with type 1 diabetes mellitus
+420514000,Persistent proteinuria due to type 1 diabetes mellitus (disorder)
+420514000,Persistent proteinuria due to type 1 diabetes mellitus
+314894004,Type I diabetes mellitus with neuropathic arthropathy
+314894004,Type 1 diabetes mellitus with neuropathic arthropathy
+314894004,Insulin dependent diabetes mellitus with neuropathic arthropathy
+314894004,Type I diabetes mellitus with neuropathic arthropathy (disorder)
+314771006,Type 1 diabetes mellitus with hypoglycaemic coma
+314771006,Insulin dependent diabetes mellitus with hypoglycaemic coma
+314771006,Type I diabetes mellitus with hypoglycaemic coma
+314771006,Type I diabetes mellitus with hypoglycemic coma
+314771006,Insulin dependent diabetes mellitus with hypoglycemic coma
+314771006,Type 1 diabetes mellitus with hypoglycemic coma
+314771006,Type I diabetes mellitus with hypoglycemic coma (disorder)
+190372001,Type I diabetes mellitus maturity onset
+190372001,Insulin-dependent diabetes maturity onset
+190372001,Type 1 diabetes mellitus maturity onset
+190372001,Type I diabetes mellitus maturity onset (disorder)
+190368000,Type I diabetes mellitus with ulcer
+190368000,Insulin-dependent diabetes mellitus with ulcer
+190368000,Type 1 diabetes mellitus with ulcer
+190368000,Type I diabetes mellitus with ulcer (disorder)
+190364003,Type 1 diabetes mellitus with ophthalmic complications
+190364003,Insulin-dependent diabetes mellitus with ophthalmic complications
+190364003,Type I diabetes mellitus with ophthalmic complications
+190364003,Type I diabetes mellitus with ophthalmic complications (disorder)
+190350003,"Diabetes mellitus, juvenile type, with neurological manifestation"
+190350003,"Diabetes mellitus, juvenile type, with neurological manifestation (disorder)"
+190330002,"Diabetes mellitus, juvenile type, with hyperosmolar coma"
+190330002,"Diabetes mellitus, juvenile type, with hyperosmolar coma (disorder)"
+190330002,Type 1 diabetes mellitus with hyperosmolar coma
+190330002,Type 1 diabetes mellitus with hyperosmolar coma (disorder)
+190330002,Hyperosmolar coma due to type 1 diabetes mellitus (disorder)
+190330002,Hyperosmolar coma due to type 1 diabetes mellitus
+23045005,Insulin dependent diabetes mellitus type IA
+23045005,Insulin dependent diabetes mellitus type IA (disorder)
+23045005,Insulin dependent diabetes mellitus type 1A
+23045005,Immune-mediated type 1 diabetes mellitus
+138921000119104,Moderate nonproliferative retinopathy due to type 2 diabetes mellitus (disorder)
+138921000119104,Moderate nonproliferative retinopathy due to type 2 diabetes mellitus
+138921000119104,Moderate nonproliferative retinopathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+138921000119104,Moderate nonproliferative retinopathy co-occurrent and due to type 2 diabetes mellitus
+12811000119100,Complication due to diabetes mellitus type 2
+12811000119100,Complication due to diabetes mellitus type 2 (disorder)
+445353002,Brittle type II diabetes mellitus (finding)
+445353002,Brittle type II diabetes mellitus
+445353002,Labile type II diabetes mellitus
+445353002,Unstable type II diabetes mellitus
+445353002,Brittle type 2 diabetes mellitus
+428007007,Erectile dysfunction associated with type 2 diabetes mellitus (disorder)
+428007007,Erectile dysfunction associated with type 2 diabetes mellitus
+428007007,Erectile dysfunction co-occurrent and due to type 2 diabetes mellitus (disorder)
+428007007,Erectile dysfunction with type 2 diabetes mellitus
+428007007,Erectile dysfunction co-occurrent and due to type 2 diabetes mellitus
+428007007,Erectile dysfunction due to type 2 diabetes mellitus (disorder)
+428007007,Erectile dysfunction due to type 2 diabetes mellitus
+423263001,Diabetic autonomic neuropathy associated with type 2 diabetes mellitus (disorder)
+423263001,Diabetic autonomic neuropathy associated with type 2 diabetes mellitus
+421750000,Ketoacidosis in type II diabetes mellitus (disorder)
+421750000,Ketoacidosis in type II diabetes mellitus
+421750000,Ketoacidosis in non-insulin-dependent diabetes mellitus
+421750000,Ketoacidosis in adult-onset type diabetes mellitus
+421750000,Ketoacidosis in type 2 diabetes mellitus
+421750000,Diabetes type 2 with ketoacidosis
+421750000,Ketoacidosis due to type 2 diabetes mellitus (disorder)
+421750000,Ketoacidosis due to type 2 diabetes mellitus
+390716007,Diabetes mellitus autosomal dominant type 2
+390716007,Diabetes mellitus autosomal dominant type 2
+390716007,Diabetes mellitus autosomal dominant type 2 (disorder)
+314772004,Type 2 diabetes mellitus with hypoglycaemic coma
+314772004,Non-insulin dependent diabetes mellitus with hypoglycaemic coma
+314772004,Type II diabetes mellitus with hypoglycaemic coma
+314772004,Type II diabetes mellitus with hypoglycemic coma
+314772004,Non-insulin dependent diabetes mellitus with hypoglycemic coma
+314772004,Type 2 diabetes mellitus with hypoglycemic coma
+314772004,Type II diabetes mellitus with hypoglycemic coma (disorder)
+371055001,Type I diabetes mellitus with ketoacidosis (disorder)
+371055001,Type I diabetes mellitus with ketoacidosis
+426907004,Small vessel disease due to type 1 diabetes mellitus (disorder)
+426907004,Small vessel disease due to type 1 diabetes mellitus
+426907004,Diabetes type 1 with small vessel disease
+712882000,Diabetic autonomic neuropathy due to type 1 diabetes mellitus
+712882000,Diabetic autonomic neuropathy due to type 1 diabetes mellitus (disorder)
+712882000,Autonomic neuropathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+712882000,Autonomic neuropathy with type 1 diabetes mellitus
+712882000,Autonomic neuropathy co-occurrent and due to type 1 diabetes mellitus
+712882000,Autonomic neuropathy with type I diabetes mellitus
+712882000,Autonomic neuropathy due to type 1 diabetes mellitus (disorder)
+712882000,Autonomic neuropathy due to type 1 diabetes mellitus
+43571000000101,Unstable type I diabetes mellitus
+43571000000101,Unstable type I diabetes mellitus
+71721000119101,Nephrotic syndrome due to type 1 diabetes mellitus
+71721000119101,Nephrotic syndrome due to type 1 diabetes mellitus (disorder)
+72031000119107,Severe malnutrition due to type 1 diabetes mellitus (disorder)
+72031000119107,Severe malnutrition due to type 1 diabetes mellitus
+82571000119107,Traction retinal detachment due to type 1 diabetes mellitus
+82571000119107,Traction retinal detachment due to type 1 diabetes mellitus (disorder)
+82571000119107,Traction retinal detachment co-occurrent and due to type 1 diabetes mellitus (disorder)
+82571000119107,Traction retinal detachment co-occurrent and due to type 1 diabetes mellitus
+82571000119107,Traction retinal detachment with type 1 diabetes mellitus
+82571000119107,Traction detachment of retina due to type 1 diabetes mellitus (disorder)
+82571000119107,Traction detachment of retina due to type 1 diabetes mellitus
+83031000000101,Type 1 diabetes mellitus with ketoacidosis
+83031000000101,Type 1 diabetes mellitus with ketoacidosis
+87491000119107,Forefoot ulcer due to type 1 diabetes mellitus
+87491000119107,Forefoot ulcer due to type 1 diabetes mellitus (disorder)
+87491000119107,Ulcer of forefoot due to type 1 diabetes mellitus (disorder)
+87491000119107,Ulcer of forefoot due to type 1 diabetes mellitus
+90751000119109,Chronic kidney disease stage 4 due to type 1 diabetes mellitus
+90751000119109,Chronic kidney disease stage 4 due to type 1 diabetes mellitus (disorder)
+90751000119109,Chronic kidney disease stage 4 due to type I diabetes mellitus
+102781000119107,Sensory neuropathy due to type 1 diabetes mellitus (disorder)
+102781000119107,Sensory neuropathy due to type 1 diabetes mellitus
+110141000119100,Ulcer of lower limb due to type 1 diabetes mellitus (disorder)
+110141000119100,Ulcer of lower limb due to type 1 diabetes mellitus
+138881000119106,Mild nonproliferative retinopathy due to type 1 diabetes mellitus
+138881000119106,Mild nonproliferative retinopathy due to type 1 diabetes mellitus (disorder)
+138881000119106,Mild nonproliferative retinopathy co-occurrent and due to type 1 diabetes mellitus
+138881000119106,Mild nonproliferative retinopathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+213991000000107,Type 1 diabetes mellitus with gastroparesis
+213991000000107,Type 1 diabetes mellitus with gastroparesis
+367211000119103,Dermatitis due to type 1 diabetes mellitus
+367211000119103,Inflammatory dermatosis due to type 1 diabetes mellitus
+367211000119103,Inflammatory dermatosis due to type 1 diabetes mellitus (disorder)
+368551000119104,Dyslipidemia due to type 1 diabetes mellitus (disorder)
+368551000119104,Dyslipidemia due to type 1 diabetes mellitus
+888191000000107,Type I diabetes mellitus in remission (disorder)
+888191000000107,Type I diabetes mellitus in remission
+888191000000107,Type 1 diabetes mellitus in remission
+16745211000119100,Nonproliferative retinopathy of left eye due to diabetes mellitus type 1
+16745211000119100,Nonproliferative retinopathy of left eye due to diabetes mellitus type 1 (disorder)
+16746661000119106,Nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 1
+16746661000119106,Nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 1 (disorder)
+16746661000119106,Nonproliferative retinopathy of both eyes due to diabetes mellitus type 1
+16746661000119106,Bilateral nonproliferative retinopathy of eyes due to diabetes mellitus type 1
+16747341000119101,Severe nonproliferative retinopathy of right eye due to diabetes mellitus type 1
+16747341000119101,Severe nonproliferative retinopathy of right eye due to diabetes mellitus type 1 (disorder)
+16891191000119108,Coronary artery disease due to type 1 diabetes mellitus
+16891191000119108,Coronary artery disease due to type 1 diabetes mellitus (disorder)
+190326000,"Diabetes mellitus, adult onset, with ketoacidosis"
+190326000,"Diabetes mellitus, adult onset, with ketoacidosis (disorder)"
+190346005,"Diabetes mellitus, adult onset, with ophthalmic manifestation"
+190346005,"Diabetes mellitus, adult onset, with ophthalmic manifestation (disorder)"
+190359002,NIDDM with peripheral circulatory disorder
+190359002,NIDDM with peripheral circulatory disorder (disorder)
+190388001,Type II diabetes mellitus with multiple complications
+190388001,Type 2 diabetes mellitus with multiple complications
+190388001,Non-insulin-dependent diabetes mellitus with multiple complications
+190388001,Type II diabetes mellitus with multiple complications (disorder)
+190388001,Multiple complications due to type 2 diabetes mellitus (disorder)
+190388001,Multiple complications due to type 2 diabetes mellitus
+190392008,Type II diabetes mellitus - poor control
+190392008,Type 2 diabetes mellitus - poor control
+190392008,Non-insulin-dependent diabetes mellitus - poor control
+190392008,Type II diabetes mellitus - poor control (disorder)
+359642000,Diabetes mellitus type 2 in nonobese
+359642000,Diabetes mellitus type 2 in nonobese (disorder)
+359642000,Type 2 diabetes mellitus in nonobese
+701000119103,Mixed hyperlipidaemia associated with type II diabetes mellitus
+701000119103,Mixed hyperlipidemia associated with type II diabetes mellitus
+701000119103,Mixed hyperlipidemia associated with type 2 diabetes mellitus
+701000119103,Mixed hyperlipidaemia associated with type 2 diabetes mellitus
+701000119103,Mixed hyperlipidemia due to type II diabetes mellitus (disorder)
+701000119103,Mixed hyperlipidemia due to type 2 diabetes mellitus
+701000119103,Mixed hyperlipidaemia due to type 2 diabetes mellitus
+701000119103,Mixed hyperlipidemia due to type II diabetes mellitus
+701000119103,Mixed hyperlipidemia due to type 2 diabetes mellitus (disorder)
+701000119103,Mixed hyperlipidaemia due to type II diabetes mellitus
+701000119103,Mixed hyperlipidemia associated with type II diabetes mellitus (disorder)
+741000119101,Chronic kidney disease stage 2 associated with type 2 diabetes mellitus
+741000119101,Diabetic stage 2 chronic renal impairment associated with type 2 diabetes mellitus
+741000119101,Chronic kidney disease stage 2 due to type 2 diabetes mellitus (disorder)
+741000119101,Chronic kidney disease stage 2 due to type 2 diabetes mellitus
+741000119101,Diabetic stage 2 chronic renal impairment due to type 2 diabetes mellitus
+741000119101,Chronic kidney disease stage 2 due to type II diabetes mellitus
+741000119101,Chronic kidney disease stage 2 associated with type 2 diabetes mellitus (disorder)
+781000119106,Diabetic neuropathic arthropathy associated with type 2 diabetes mellitus
+781000119106,Diabetic neuropathic arthropathy associated with type 2 diabetes mellitus (disorder)
+781000119106,Diabetic Charcot's arthropathy associated with type 2 diabetes mellitus
+781000119106,Neuropathic arthropathy due to type 2 diabetes mellitus
+781000119106,Neuropathic arthropathy due to type 2 diabetes mellitus (disorder)
+1501000119109,Proliferative diabetic retinopathy associated with type II diabetes mellitus
+1501000119109,Proliferative diabetic retinopathy associated with type 2 diabetes mellitus
+1501000119109,Proliferative diabetic retinopathy due to type II diabetes mellitus
+1501000119109,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder)
+1501000119109,Proliferative diabetic retinopathy due to type 2 diabetes mellitus
+1501000119109,Proliferative retinopathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+1501000119109,Proliferative retinopathy with type 2 diabetes mellitus
+1501000119109,Proliferative retinopathy co-occurrent and due to type 2 diabetes mellitus
+1501000119109,Proliferative retinopathy due to type 2 diabetes mellitus (disorder)
+1501000119109,Proliferative retinopathy due to type 2 diabetes mellitus
+1501000119109,Proliferative diabetic retinopathy associated with type II diabetes mellitus (disorder)
+1541000119106,Diabetic skin ulcer associated with type 2 diabetes mellitus
+1541000119106,Skin ulcer associated with type II diabetes mellitus
+1541000119106,Skin ulcer associated with type II diabetes mellitus (disorder)
+43801000000107,Type II diabetes mellitus - poor control
+43801000000107,Type II diabetes mellitus - poor control
+71421000119105,Hypertension in chronic kidney disease due to type 2 diabetes mellitus (disorder)
+71421000119105,Hypertension in chronic kidney disease due to type 2 diabetes mellitus
+71421000119105,Hypertension in chronic kidney disease due to type II diabetes mellitus
+82541000119100,Traction retinal detachment due to type 2 diabetes mellitus
+82541000119100,Traction retinal detachment due to type 2 diabetes mellitus (disorder)
+82541000119100,Traction retinal detachment co-occurrent and due to type 2 diabetes mellitus (disorder)
+82541000119100,Traction retinal detachment with type 2 diabetes mellitus
+82541000119100,Traction retinal detachment co-occurrent and due to type 2 diabetes mellitus
+82541000119100,Traction detachment of retina due to type 2 diabetes mellitus (disorder)
+82541000119100,Traction detachment of retina due to type 2 diabetes mellitus
+83221000000108,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+83221000000108,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+84361000119102,Insulin reactive hypoglycemia in type 2 diabetes mellitus
+84361000119102,Insulin reactive hypoglycemia in type 2 diabetes mellitus (disorder)
+84361000119102,Insulin reactive hypoglycaemia in type 2 diabetes mellitus
+84361000119102,Insulin reactive hypoglycemia due to type 2 diabetes mellitus (disorder)
+84361000119102,Insulin reactive hypoglycaemia due to type 2 diabetes mellitus
+84361000119102,Insulin reactive hypoglycemia due to type 2 diabetes mellitus
+87921000119104,Cranial nerve palsy due to type 2 diabetes mellitus
+87921000119104,Cranial nerve palsy due to type 2 diabetes mellitus (disorder)
+87921000119104,Cranial nerve palsy co-occurrent and due to type 2 diabetes mellitus (disorder)
+87921000119104,Cranial nerve palsy with type 2 diabetes mellitus
+87921000119104,Cranial nerve palsy co-occurrent and due to type 2 diabetes mellitus
+87921000119104,Cranial nerve palsy with type II diabetes mellitus
+97341000119105,Proliferative retinopathy with retinal oedema due to type 2 diabetes mellitus
+97341000119105,Proliferative retinopathy with retinal edema due to type 2 diabetes mellitus
+97341000119105,Proliferative retinopathy with retinal edema due to type 2 diabetes mellitus (disorder)
+97341000119105,Proliferative retinopathy with retinal edema co-occurrent and due to type 2 diabetes mellitus (disorder)
+97341000119105,Proliferative retinopathy with retinal edema co-occurrent and due to type 2 diabetes mellitus
+97341000119105,Proliferative retinopathy with retinal oedema co-occurrent and due to type 2 diabetes mellitus
+108781000119105,Neuropathic ulcer of midfoot AND/OR heel due to type 2 diabetes mellitus (disorder)
+108781000119105,Neuropathic ulcer of midfoot AND/OR heel due to type 2 diabetes mellitus
+111231000119109,Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus
+111231000119109,Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus (disorder)
+137931000119102,Hyperlipidemia due to type 2 diabetes mellitus
+137931000119102,Hyperlipidaemia due to type 2 diabetes mellitus
+137931000119102,Hyperlipidemia due to type 2 diabetes mellitus (disorder)
+140111000119107,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus (disorder)
+140111000119107,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus
+140111000119107,Hypertension in chronic kidney disease stage 4 due to type II diabetes mellitus
+140391000119101,Ulcer of toe due to type 2 diabetes mellitus (disorder)
+140391000119101,Ulcer of toe due to type 2 diabetes mellitus
+279331000000102,Diabetes type 2 review 
+279331000000102,Diabetes type 2 review
+368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder)
+368581000119106,Neuropathy due to type 2 diabetes mellitus
+771691000000102,History of diabetes mellitus type 2 (situation)
+771691000000102,H/O: diabetes mellitus type 2
+771691000000102,History of diabetes mellitus type II
+771691000000102,H/O: diabetes mellitus type II
+771691000000102,History of diabetes mellitus type 2
+1051111000000101,Pregnancy and non-insulin-dependent diabetes mellitus
+1051111000000101,Pregnancy and non-insulin-dependent diabetes mellitus
+15936501000119100,Inflammatory dermatosis due to type 2 diabetes mellitus (disorder)
+15936501000119100,Inflammatory dermatosis due to type 2 diabetes mellitus
+15936501000119100,Dermatitis due to type 2 diabetes mellitus
+16745651000119101,Mild nonproliferative retinopathy of right eye due to diabetes mellitus type 2
+16745651000119101,Mild nonproliferative retinopathy of right eye due to diabetes mellitus type 2 (disorder)
+16746341000119103,Moderate nonproliferative retinopathy of both eyes due to diabetes mellitus type 2
+16746341000119103,Moderate nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 2 (disorder)
+16746341000119103,Moderate nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 2
+16746341000119103,Bilateral moderate nonproliferative retinopathy due to diabetes mellitus type 2
+16747661000119109,Nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 2
+16747661000119109,Bilateral nonproliferative retinopathy due to diabetes mellitus type 2
+16747661000119109,Nonproliferative retinopathy of both eyes due to diabetes mellitus type 2
+16747661000119109,Nonproliferative retinopathy of bilateral eyes due to diabetes mellitus type 2 (disorder)
+16891151000119103,Coronary artery disease due to type 2 diabetes mellitus (disorder)
+16891151000119103,Coronary artery disease due to type 2 diabetes mellitus
+1003605004,Glaucoma suspect due to diabetes mellitus type 2 (disorder)
+1003605004,Glaucoma suspect due to diabetes mellitus type II
+1003605004,Glaucoma suspect due to diabetes mellitus type 2
+789567007,Ulcer of heel due to type 2 diabetes mellitus (disorder)
+789567007,Ulcer of heel due to type 2 diabetes mellitus
+713706002,Polyneuropathy due to type 2 diabetes mellitus
+713706002,Polyneuropathy due to diabetes mellitus type II
+713706002,Polyneuropathy due to type 2 diabetes mellitus (disorder)
+713706002,Polyneuropathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+713706002,Polyneuropathy co-occurrent and due to type 2 diabetes mellitus
+609567009,Pre-existing type 2 diabetes mellitus in pregnancy
+609567009,Pre-existing type 2 diabetes mellitus in pregnancy (disorder)
+443694000,Type II diabetes mellitus uncontrolled (finding)
+443694000,Type II diabetes mellitus uncontrolled
+443694000,Type II diabetes mellitus poorly controlled
+443694000,Type 2 diabetes mellitus uncontrolled
+427027005,Amyotrophy due to type 2 diabetes mellitus (disorder)
+427027005,Amyotrophy due to type 2 diabetes mellitus
+427027005,Diabetes type 2 with amyotrophy
+427027005,Lumbosacral radiculoplexus neuropathy co-occurrent and due to type 2 diabetes mellitus
+427027005,Lumbosacral radiculoplexus neuropathy co-occurrent and due to type 2 diabetes mellitus (disorder)
+427027005,Lumbosacral radiculoplexus neuropathy with type 2 diabetes mellitus
+427027005,Diabetes type II with amyotrophy
+427027005,Lumbosacral radiculoplexus neuropathy due to type 2 diabetes mellitus (disorder)
+427027005,Lumbosacral radiculoplexus neuropathy due to type 2 diabetes mellitus
+422099009,Diabetic oculopathy associated with type II diabetes mellitus (disorder)
+422099009,Diabetic oculopathy associated with type II diabetes mellitus
+422099009,Ophthalmic complication of non-insulin-dependent diabetes mellitus
+422099009,Ophthalmic complication of adult-onset type diabetes mellitus
+422099009,Diabetic oculopathy associated with type 2 diabetes mellitus
+422099009,Disorder of eye co-occurrent and due to type 2 diabetes mellitus (disorder)
+422099009,Disorder of eye with type 2 diabetes mellitus
+422099009,Disorder of eye co-occurrent and due to type 2 diabetes mellitus
+422099009,Disorder of eye due to type 2 diabetes mellitus (disorder)
+422099009,Disorder of eye due to type 2 diabetes mellitus
+421847006,Ketoacidotic coma in type II diabetes mellitus (disorder)
+421847006,Ketoacidotic coma in type II diabetes mellitus
+421847006,Ketoacidotic coma in type 2 diabetes mellitus
+421847006,Diabetes mellitus type 2 with ketoacidotic coma
+421847006,Ketoacidotic coma due to type 2 diabetes mellitus (disorder)
+421847006,Ketoacidotic coma due to type 2 diabetes mellitus
+421847006,Ketoacidotic coma in type 2 diabetes mellitus
+421631007,Gangrene associated with type II diabetes mellitus (disorder)
+421631007,Gangrene associated with type II diabetes mellitus
+421631007,Gangrene associated with non-insulin dependent diabetes mellitus
+421631007,Gangrene associated with adult-onside type diabetes mellitus
+421631007,Gangrene associated with type 2 diabetes mellitus
+421631007,Diabetes type 2 with gangrene
+421631007,Gangrene due to type 2 diabetes mellitus
+421631007,Gangrene due to type 2 diabetes mellitus (disorder)
+420715001,Persistent microalbuminuria associated with type II diabetes mellitus (disorder)
+420715001,Persistent microalbuminuria associated with type II diabetes mellitus
+420715001,Persistent microalbuminuria associated with non-insulin dependent diabetes mellitus
+420715001,Persistent microalbuminuria associated with adult-onset type diabetes mellitus
+420715001,Persistent microalbuminuria associated with type 2 diabetes mellitus
+420715001,Persistent microalbuminuria due to type 2 diabetes mellitus (disorder)
+420715001,Persistent microalbuminuria due to type 2 diabetes mellitus
+420715001,Persistent microalbuminuria associated with type 2 diabetes mellitus
+408660003,Type II diabetes mellitus with ketoacidosis (disorder)
+408660003,Type II diabetes mellitus with ketoacidosis
+395204000,Hyperosmolar non-ketotic state in type 2 diabetes mellitus (disorder)
+395204000,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+395204000,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus
+395204000,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder)
+395204000,Hyperosmolar non-ketotic state in type II diabetes mellitus
+314902007,Type II diabetes mellitus with peripheral angiopathy
+314902007,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+314902007,Type 2 diabetes mellitus with peripheral angiopathy
+314902007,Type II diabetes mellitus with peripheral angiopathy (disorder)
+314902007,Type 2 diabetes mellitus with peripheral angiopathy (disorder)
+314902007,Peripheral angiopathy due to type 2 diabetes mellitus (disorder)
+314902007,Peripheral angiopathy due to type 2 diabetes mellitus
+314371009,Type II diabetes mellitus with polyneuropathy
+314371009,Type 2 diabetes mellitus with polyneuropathy
+314371009,Non-insulin dependent diabetes mellitus with polyneuropathy
+314371009,Type II diabetes mellitus with polyneuropathy (disorder)
+237604008,Diabetes mellitus autosomal dominant type II
+237604008,Maturity onset diabetes in youth type II
+237604008,MODY - Maturity onset diabetes in youth type II
+237604008,Maturity onset diabetes in youth type 2
+237604008,MODY - Maturity onset diabetes in youth type 2
+237604008,MODY - Maturity onset diabetes glucokinase-related
+237604008,Diabetes mellitus autosomal dominant type II (disorder)
+237604008,MODY2
+237604008,"Maturity onset diabetes of the young, type 2 (disorder)"
+237604008,"Maturity onset diabetes of the young, type 2"
+237604008,GCK (glucokinase) monogenic diabetes mellitus
+237604008,GCK monogenic diabetes mellitus
+10656231000119100,Skin ulcer of toe due to diabetes mellitis type 1 (disorder)
+10656231000119100,"Diabetes type 1 with diabetic ulcer of toe, skin breakdown"
+10656231000119100,Skin ulcer of toe due to diabetes mellitis type 1
+10656231000119100,Skin ulcer of toe due to diabetes mellitus type 1 (disorder)
+10656231000119100,Skin ulcer of toe due to diabetes mellitus type 1
+10656231000119100,Ulcer of skin of toe due to type 1 diabetes mellitus (disorder)
+10656231000119100,Ulcer of skin of toe due to type 1 diabetes mellitus
+279311000000105,Diabetes type 1 review 
+279311000000105,Diabetes type 1 review
+60961000119107,Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus
+60961000119107,Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus (disorder)
+60961000119107,Nonproliferative retinopathy co-occurrent and due to type 1 diabetes mellitus (disorder)
+60961000119107,Nonproliferative retinopathy co-occurrent and due to type 1 diabetes mellitus
+1571000119104,Mixed hyperlipidemia associated with type 1 diabetes mellitus (disorder)
+1571000119104,Mixed hyperlipidaemia associated with type 1 diabetes mellitus
+1571000119104,Mixed hyperlipidemia associated with type 1 diabetes mellitus
+1571000119104,Mixed hyperlipidaemia due to type 1 diabetes mellitus
+1571000119104,Mixed hyperlipidemia due to type 1 diabetes mellitus
+1571000119104,Mixed hyperlipidemia due to type 1 diabetes mellitus (disorder)
+1196923000,Neovascular glaucoma due to diabetes mellitus type 1
+1196923000,Neovascular glaucoma due to type I diabetes mellitus
+1196923000,Neovascular glaucoma due to diabetes mellitus type 1 (disorder)
+770098001,Cranial nerve palsy with type 1 diabetes mellitus
+770098001,Cranial nerve palsy due to type 1 diabetes mellitus
+770098001,Cranial nerve palsy co-occurrent and due to type 1 diabetes mellitus (disorder)
+770098001,Cranial nerve palsy with type I diabetes mellitus
+770098001,Cranial nerve palsy co-occurrent and due to type 1 diabetes mellitus
+770098001,Cranial nerve palsy due to type 1 diabetes mellitus (disorder)
+721283000,Acidosis due to type 1 diabetes mellitus (disorder)
+721283000,Acidosis due to type 1 diabetes mellitus
+609566000,Pregnancy and type 1 diabetes mellitus
+609566000,Pregnancy and type 1 diabetes mellitus (disorder)
+444073006,Type I diabetes mellitus uncontrolled (finding)
+444073006,Type I diabetes mellitus uncontrolled
+444073006,Type I diabetes mellitus poorly controlled
+444073006,Type 1 diabetes mellitus uncontrolled
+422297002,Polyneuropathy associated with type I diabetes mellitus (disorder)
+422297002,Polyneuropathy associated with type I diabetes mellitus
+422297002,Polyneuropathy associated with juvenile-onset diabetes mellitus
+422297002,Polyneuropathy associated with type 1 diabetes mellitus
+421468001,Neurological disorder associated with type I diabetes mellitus (disorder)
+421468001,Neurological disorder associated with type I diabetes mellitus
+421468001,Neurological disorder associated with type 1 diabetes mellitus
+421468001,Neurologic complication of juvenile-onset diabetes mellitus
+421468001,Diabetes type 1 with neurological disorder
+421468001,Neurological disorder co-occurrent and due to type 1 diabetes mellitus (disorder)
+421468001,Neurological disorder with type 1 diabetes mellitus
+421468001,Neurological disorder co-occurrent and due to type 1 diabetes mellitus
+421468001,Disorder of nervous system due to type 1 diabetes mellitus
+421468001,Disorder of nervous system due to type 1 diabetes mellitus (disorder)
+421165007,Diabetic oculopathy associated with type I diabetes mellitus (disorder)
+421165007,Diabetic oculopathy associated with type I diabetes mellitus
+421165007,Diabetic oculopathy associated with type 1 diabetes mellitus
+420825003,Gangrene associated with type I diabetes mellitus (disorder)
+420825003,Gangrene associated with type I diabetes mellitus
+420825003,Gangrene associated with type 1 diabetes mellitus
+420825003,Gangrene associated with insullin-dependent diabetes mellitus
+420825003,Gangrene associated with insulin-dependent diabetes mellitus
+420825003,Diabetes type 1 with gangrene
+420825003,Gangrene due to type 1 diabetes mellitus
+420825003,Gangrene due to type 1 diabetes mellitus (disorder)
+420270002,Ketoacidosis in type I diabetes mellitus (disorder)
+420270002,Ketoacidosis in type I diabetes mellitus
+420270002,Ketoacidosis in juvenile-onset type diabetes mellitus
+420270002,Ketoacidosis in insulin-dependent diabetes mellitus
+420270002,Ketoacidosis in type 1 diabetes mellitus
+420270002,Diabetes type 1 with ketoacidosis
+420270002,Ketoacidosis due to type 1 diabetes mellitus
+420270002,Ketoacidosis due to type 1 diabetes mellitus (disorder)
+314892000,Type I diabetes mellitus with peripheral angiopathy
+314892000,Type 1 diabetes mellitus with peripheral angiopathy
+314892000,Insulin dependent diabetes mellitus with peripheral angiopathy
+314892000,Type I diabetes mellitus with peripheral angiopathy (disorder)
+314369009,Type 1 diabetes mellitus with polyneuropathy
+314369009,Insulin dependent diabetes mellitus with polyneuropathy
+314369009,Type I diabetes mellitus with polyneuropathy
+314369009,Type I diabetes mellitus with polyneuropathy (disorder)
+237626009,Pregnancy and insulin-dependent diabetes mellitus
+237626009,Pregnancy and IDDM
+237626009,Pregnancy and insulin-dependent diabetes mellitus (disorder)
+190370009,Type I diabetes mellitus with retinopathy
+190370009,Type 1 diabetes mellitus with retinopathy
+190370009,Insulin-dependent diabetes mellitus with retinopathy
+190370009,IDDM - Insulin-dependent diabetes mellitus with retinopathy
+190370009,Type I diabetes mellitus with retinopathy (disorder)
+190366001,Type I diabetes mellitus with multiple complications
+190366001,Insulin-dependent diabetes mellitus with multiple complications
+190366001,Type 1 diabetes mellitus with multiple complications
+190366001,Type I diabetes mellitus with multiple complications (disorder)
+190358005,IDDM with peripheral circulatory disorder
+190358005,IDDM with peripheral circulatory disorder (disorder)
+190339001,"Diabetes mellitus, juvenile type, with renal manifestation"
+190339001,"Diabetes mellitus, juvenile type, with renal manifestation (disorder)"
+46635009,Insulin dependent diabetes mellitus
+46635009,Diabetes mellitus type I
+46635009,IDDM
+46635009,Type 1 diabetes mellitus
+46635009,Diabetes mellitus type 1
+46635009,IDDM - Insulin-dependent diabetes mellitus
+46635009,Insulin-dependent diabetes mellitus
+46635009,Type I diabetes mellitus
+46635009,Juvenile onset diabetes mellitus
+46635009,Diabetes mellitus type 1 (disorder)
+46635009,T1DM - type 1 diabetes mellitus
+164971000119101,Type 2 diabetes mellitus controlled by diet (finding)
+164971000119101,Type 2 diabetes mellitus controlled by diet
+24481000000101,Type 2 diabetes on diet only
+24481000000101,Type 2 diabetes on diet only (finding)
+24481000000101,Type II diabetes on diet only
+24481000000101,Type 2 diabetic on diet only (finding)
+24481000000101,Type 2 diabetic on diet only
