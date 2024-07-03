@@ -1,0 +1,173 @@
+SnomedCTConceptId,Term
+443381000124105,Obese class II (finding)
+443381000124105,Obese class II
+443381000124105,Body mass index 35.00 to 39.99
+443371000124107,Obese class I (finding)
+443371000124107,Obese class I
+443371000124107,Body mass index 30.00 to 34.99
+722595002,Overweight in adulthood with body mass index of 25 or more but less than 30 (finding)
+722595002,Overweight in adulthood with body mass index of 25 or more but less than 30
+722595002,Overweight in adulthood with BMI of 25 or more but less than 30
+427090001,Body mass index less than 16.5 (finding)
+427090001,Body mass index less than 16.5
+427090001,BMI (body mass index) less than 16.5
+412768003,Body mass index 20-24 - normal (finding)
+412768003,Body mass index 20-24 - normal
+412768003,BMI (body mass index) 20-24 - normal
+408512008,Body mass index 40+ - severely obese (finding)
+408512008,Body mass index 40+ - severely obese
+408512008,Body mass index 40+ - morbidly obese
+408512008,BMI (body mass index) 40+ - severely obese
+363807006,Body mass index
+363807006,Body mass index
+363807006,Body mass index (observable entity)
+301331008,Finding of body mass index
+301331008,Finding of body mass index (finding)
+301331008,Observation of body mass index
+301331008,Finding of BMI (body mass index)
+162864005,Body mass index 30+ - obesity
+162864005,Body mass index 30+ - obesity (finding)
+162864005,BMI 30+ - obesity
+162863004,Body mass index index 25-29 - overweight
+162863004,Body mass index index 25-29 - overweight (finding)
+162863004,BMI 25-29 - overweight
+162863004,Body mass index 25-29 - overweight (finding)
+162863004,Body mass index 25-29 - overweight
+162862009,Body mass index low K/M2
+162862009,Body mass index low K/M2 (finding)
+162862009,BMI (body mass index) low K/M2
+162861002,Body mass index high K/M2
+162861002,Body mass index high K/M2 (finding)
+162861002,BMI (body mass index) high K/M2
+162860001,Body mass index normal K/M2
+162860001,Body mass index normal K/M2 (finding)
+162860001,BMI (body mass index) normal K/M2
+162859006,Body mass index
+162859006,Body mass index [dup] (observable entity)
+162859006,Body mass index - observation
+162859006,BMI - Body mass index
+162859006,Body mass index (observable entity)
+140075008,Body mass index
+140075008,Body mass index
+140075008,Body mass index (observable entity)
+60621009,Body mass index
+60621009,"Body mass index, NOS"
+60621009,Body mass index (observable entity)
+60621009,Weight: body mass
+60621009,BMI - Body mass index
+60621009,Quetelet index
+48499001,Increased body mass index
+48499001,Increased body mass index (finding)
+48499001,Increased BMI (body mass index)
+35425004,Normal body mass index
+35425004,Normal body mass index (finding)
+35425004,Normal BMI (body mass index)
+6497000,Decreased body mass index
+6497000,Decreased body mass index (finding)
+6497000,Decreased BMI (body mass index)
+920971000000105,Child body mass index on 91st centile (finding)
+920971000000105,Child body mass index on 91st centile
+920971000000105,Child BMI (body mass index) on 91st centile
+920961000000103,Child body mass index = 76th-90th centile 
+920961000000103,Child body mass index = 76th-90th centile
+920951000000101,Child body mass index 76th-90th centile (finding)
+920951000000101,Child body mass index 76th-90th centile
+920951000000101,Child BMI (body mass index) 76th-90th centile
+920941000000104,Child body mass index = 75th centile 
+920941000000104,Child body mass index = 75th centile
+920931000000108,Child body mass index on 75th centile (finding)
+920931000000108,Child body mass index on 75th centile
+920931000000108,Child BMI (body mass index) on 75th centile
+920851000000106,Child body mass index = 51st-74th centile 
+920851000000106,Child body mass index = 51st-74th centile
+920841000000108,Child body mass index 51st-74th centile (finding)
+920841000000108,Child body mass index 51st-74th centile
+920841000000108,Child BMI (body mass index) 51st-74th centile
+920321000000107,Child body mass index = 50th centile 
+920321000000107,Child body mass index = 50th centile
+920311000000101,Child body mass index on 50th centile (finding)
+920311000000101,Child body mass index on 50th centile
+920311000000101,Child BMI (body mass index) on 50th centile
+920301000000103,Child body mass index = 26th-49th centile 
+920301000000103,Child body mass index = 26th-49th centile
+920291000000102,Child body mass index 26th-49th centile (finding)
+920291000000102,Child body mass index 26th-49th centile
+920291000000102,Child BMI (body mass index) 26th-49th centile
+920281000000104,Child body mass index = 25th centile 
+920281000000104,Child body mass index = 25th centile
+920271000000101,Child body mass index on 25th centile (finding)
+920271000000101,Child body mass index on 25th centile
+920271000000101,Child BMI (body mass index) on 25th centile
+920261000000108,Child body mass index = 10th-24th centile 
+920261000000108,Child body mass index = 10th-24th centile
+920251000000105,Child body mass index 10th-24th centile (finding)
+920251000000105,Child body mass index 10th-24th centile
+920251000000105,Child BMI (body mass index) 10th-24th centile
+920241000000107,Child body mass index = 9th centile 
+920241000000107,Child body mass index = 9th centile
+920231000000103,Child body mass index on 9th centile (finding)
+920231000000103,Child body mass index on 9th centile
+920231000000103,Child BMI (body mass index) on 9th centile
+920211000000106,Child body mass index = 3rd - 8th centile 
+920211000000106,Child body mass index = 3rd - 8th centile
+920201000000109,Child body mass index 3rd-8th centile (finding)
+920201000000109,Child body mass index 3rd-8th centile
+920201000000109,Child BMI (body mass index) 3rd-8th centile
+920191000000107,Child body mass index = 2nd centile 
+920191000000107,Child body mass index = 2nd centile
+920181000000105,Child body mass index on 2nd centile (finding)
+920181000000105,Child body mass index on 2nd centile
+920181000000105,Child BMI (body mass index) on 2nd centile
+920171000000108,Child body mass index = 0.4th - 2nd centile 
+920171000000108,Child body mass index = 0.4th - 2nd centile
+920161000000101,Child body mass index 0.4th-1.9th centile (finding)
+920161000000101,Child body mass index 0.4th-1.9th centile
+920161000000101,Child BMI (body mass index) 0.4th-1.9th centile
+920151000000104,Child body mass index < 0.4th centile 
+920151000000104,Child body mass index < 0.4th centile
+920141000000102,Child body mass index less than 0.4th centile (finding)
+920141000000102,Child body mass index less than 0.4th centile
+920141000000102,Child BMI (body mass index) less than 0.4th centile
+917171000000102,Obese class III (body mass index equal to or greater than 40.0)
+917171000000102,Obese class III (body mass index equal to or greater than 40.0)
+917161000000109,Obese class II (body mass index 35.0 - 39.9)
+917161000000109,Obese class II (body mass index 35.0 - 39.9)
+917151000000106,Obese class I (body mass index 30.0 - 34.9)
+917151000000106,Obese class I (body mass index 30.0 - 34.9)
+914741000000103,Obese class III (body mass index equal to or greater than 40.0) (finding)
+914741000000103,Obese class III (body mass index equal to or greater than 40.0)
+914731000000107,Obese class II (body mass index 35.0 - 39.9) (finding)
+914731000000107,Obese class II (body mass index 35.0 - 39.9)
+914721000000105,Obese class I (body mass index 30.0 - 34.9) (finding)
+914721000000105,Obese class I (body mass index 30.0 - 34.9)
+921061000000107,Child body mass index > 99.6th centile 
+921061000000107,Child body mass index > 99.6th centile
+921051000000109,Child body mass index greater than 99.6th centile (finding)
+921051000000109,Child body mass index greater than 99.6th centile
+921051000000109,Child BMI (body mass index) greater than 99.6th centile
+921041000000106,Child body mass index = 98.1st-99.6th centile 
+921041000000106,Child body mass index = 98.1st-99.6th centile
+921031000000102,Child body mass index 98.1st-99.6th centile (finding)
+921031000000102,Child body mass index 98.1st-99.6th centile
+921031000000102,Child BMI (body mass index) 98.1st-99.6th centile
+921021000000104,Child body mass index = 98th centile 
+921021000000104,Child body mass index = 98th centile
+921011000000105,Child body mass index on 98th centile (finding)
+921011000000105,Child body mass index on 98th centile
+921011000000105,Child BMI (body mass index) on 98th centile
+921001000000108,Child body mass index = 92nd-97th centile 
+921001000000108,Child body mass index = 92nd-97th centile
+920991000000109,Child body mass index 92nd-97th centile (finding)
+920991000000109,Child body mass index 92nd-97th centile
+920991000000109,Child BMI (body mass index) 92nd-97th centile
+920981000000107,Child body mass index = 91st centile 
+920981000000107,Child body mass index = 91st centile
+819948005,Obese class III
+819948005,Obese class III (finding)
+819948005,Body mass index equal to or greater than 40
+819948005,Obese class III (body mass index equal to or greater than 40.0)
+248359001,Quetelet index
+248359001,Quetelet index (observable entity)
+310252000,Body mass index less than 20
+310252000,Body mass index less than 20 (finding)
+310252000,BMI less than 20
