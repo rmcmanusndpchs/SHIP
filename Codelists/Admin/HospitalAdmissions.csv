@@ -1,0 +1,147 @@
+SnomedCTConceptId,Term
+151712007,Admit renal medicine emergency
+151712007,Admit renal medicine emergency
+151712007,Admit renal medicine emergency (procedure)
+76464004,"Hospital admission, for observation"
+76464004,"Hospital admission, for observation (procedure)"
+73607007,"Hospital admission, emergency, from emergency room"
+73607007,"Hospital admission, emergency, from emergency room, NOS"
+73607007,"Hospital admission, emergency, from emergency room (procedure)"
+63551005,"Hospital admission, from remote area, by means of special transportation"
+63551005,"Hospital admission, from remote area, by means of special transportation (procedure)"
+40274000,General outpatient clinic admission
+40274000,"General outpatient clinic admission, NOS"
+40274000,General outpatient clinic admission (procedure)
+19951005,"Hospital admission, emergency, from emergency room, medical nature"
+19951005,"Hospital admission, emergency, from emergency room, medical nature (procedure)"
+18083007,"Hospital admission, emergency, indirect"
+18083007,"Hospital admission, emergency, indirect (procedure)"
+5161006,Specialty clinic admission
+5161006,"Specialty clinic admission, NOS"
+5161006,Speciality clinic admission
+5161006,Specialty clinic admission (procedure)
+2252009,"Hospital admission, urgent, 48 hours"
+2252009,"Hospital admission, urgent, 48 hours (procedure)"
+3241000175106,Hospital admission from non-health care facility
+3241000175106,Hospital admission from non-health care facility (procedure)
+405614004,Unexpected hospital admission (procedure)
+405614004,Unexpected hospital admission
+151719003,Non-urgent hospital admission unspecified
+151719003,Non-urgent hospital admission unspecified
+151719003,Non-urgent hospital admission unspecified (procedure)
+151718006,(Non-urgent hospital admission) or (hospital day care)
+151718006,(Non-urgent hospital admission) or (hospital day care)
+151718006,(Non-urgent hospital admission) or (hospital day care) (procedure)
+151701007,Admit rheumatology emergency
+151701007,Admit rheumatology emergency
+151701007,Admit rheumatology emergency (procedure)
+151693008,Admit geriatric emergency
+151693008,Admit geriatric emergency
+151693008,Admit geriatric emergency (procedure)
+78680009,"Hospital admission, emergency, direct"
+78680009,"Hospital admission, emergency, direct (procedure)"
+48183000,"Hospital admission, special"
+48183000,"Hospital admission, special, NOS"
+48183000,"Hospital admission, special (procedure)"
+25986004,"Hospital admission, under police custody"
+25986004,"Hospital admission, under police custody (procedure)"
+1082421000000101,Emergency hospital admission to accident and emergency service
+1082421000000101,Emergency hospital admission to accident and emergency service (procedure)
+1079201000000105,Emergency hospital admission to transient ischaemic attack service
+1079201000000105,Emergency hospital admission to transient ischaemic attack service (procedure)
+1078671000000108,Emergency hospital admission to stroke service
+1078671000000108,Emergency hospital admission to stroke service (procedure)
+1078291000000109,Emergency hospital admission to general medical service
+1078291000000109,Emergency hospital admission to general medical service (procedure)
+1065381000000101,Admission to acute internal medicine department
+1065381000000101,Admission to acute internal medicine department (procedure)
+894891000000105,Admission to observation ward 
+894891000000105,Admission to observation ward
+894881000000108,Admission to observation ward (procedure)
+894881000000108,Admission to observation ward
+836661000000100,Admission to acute assessment unit 
+836661000000100,Admission to acute assessment unit
+836651000000103,Admission to acute assessment unit (procedure)
+836651000000103,Admission to acute assessment unit
+780781000000108,Admission by accident and emergency doctor
+780781000000108,Admission by accident and emergency doctor
+646321000000108,Non-urgent hospital admission unspecified
+646321000000108,Non-urgent hospital admission unspecified (procedure)
+432621000124105,Hospital admission from dialysis facility (procedure)
+432621000124105,Hospital admission from dialysis facility
+772011000,Admission to acute internal medicine department (procedure)
+772011000,Admission to acute internal medicine department
+310361003,Non-urgent cardiological admission
+310361003,Non-urgent cardiological admission (procedure)
+305378002,Admission to nephrology department
+305378002,Admission to nephrology department (procedure)
+305375004,Admission to care of the elderly department
+305375004,Admission to geriatric medicine department
+305375004,Admission to care of the elderly department (procedure)
+305368000,Admission to general medical department
+305368000,Admission to general medical department (procedure)
+305357000,Admission to cardiology department
+305357000,Admission to cardiology department (procedure)
+305341000,Admission to tertiary referral hospital
+305341000,Admission to tertiary referral center
+305341000,Admission to tertiary referral centre
+305341000,Admission to tertiary referral hospital (procedure)
+305340004,Admission to long stay hospital
+305340004,Admission to long stay hospital (procedure)
+305226003,Admission by accident and emergency doctor
+305226003,Admission by casualty doctor
+305226003,Admission by A & E doctor
+305226003,Admission by accident and emergency doctor (procedure)
+305226003,Admission by Accident and Emergency doctor (procedure)
+305226003,Admission by Accident and Emergency doctor
+304566005,Admission for treatment
+304566005,Admission for treatment (procedure)
+151749001,Non-urgent cardiological admission
+151749001,Non-urgent cardiological admission
+151749001,Non-urgent cardiological admission (procedure)
+151745007,Non-urgent renal medicine admission
+151745007,Non-urgent renal medicine admission
+151745007,Non-urgent renal medicine admission (procedure)
+151735005,Non-urgent rheumatology admission
+151735005,Non-urgent rheumatology admission
+151735005,Non-urgent rheumatology admission (procedure)
+151727007,Non-urgent geriatric admission
+151727007,Non-urgent geriatric admission
+151727007,Non-urgent geriatric admission (procedure)
+151724000,Non-urgent medical admission
+151724000,Non-urgent medical admission
+151724000,Non-urgent medical admission (procedure)
+4563007,"Hospital admission, transfer from other hospital or health care facility"
+4563007,"Hospital admission, transfer from other hospital or health care facility (procedure)"
+266831006,Non-urgent hospital admission
+266831006,Day care - hospital
+266831006,(Non-urgent hospital admission) or (hospital day care)
+266831006,(Non-urgent hospital admission) or (hospital day care)
+266831006,(Non-urgent hospital admission) or (hospital day care) (procedure)
+183513001,Non-urgent cardiological admission
+183513001,Non-urgent cardiological admission
+183513001,Non-urgent cardiological admission (procedure)
+183509008,Non-urgent renal medicine admission
+183509008,Non-urgent renal medicine admission (procedure)
+183499003,Non-urgent rheumatology admission
+183499003,Non-urgent rheumatology admission (procedure)
+183491000,Non-urgent geriatric admission
+183491000,Non-urgent geriatric admission (procedure)
+183487005,Non-urgent medical admission
+183487005,Non-urgent medical admission (procedure)
+183482004,Non-urgent hospital admission unspecified
+183482004,Non-urgent hospital admission unspecified (procedure)
+183481006,Non-urgent hospital admission
+183481006,Non-urgent hospital admission (procedure)
+183475003,Admit renal medicine emergency
+183475003,Admit renal medicine emergency (procedure)
+183475003,Renal medicine emergency hospital admission (procedure)
+183475003,Renal medicine emergency hospital admission
+183465001,Admit rheumatology emergency
+183465001,Admit rheumatology emergency (procedure)
+183465001,Rheumatology emergency hospital admission (procedure)
+183465001,Rheumatology emergency hospital admission
+183457004,Admit geriatric emergency
+183457004,Admit geriatric emergency (procedure)
+183457004,Geriatric emergency hospital admission
+183457004,Geriatric emergency hospital admission (procedure)

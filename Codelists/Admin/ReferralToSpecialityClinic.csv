@@ -1,0 +1,55 @@
+SnomedCTConceptId,Term
+134440006,Referral to heart failure clinic
+134440006,Referral to heart failure clinic (procedure)
+152085006,Referral to hypertension clinic
+152085006,Referral to hypertension clinic
+152085006,Referral to hypertension clinic (procedure)
+183519002,Referral to cardiology service
+183519002,Cardiological referral
+183519002,Referral to cardiology service (procedure)
+183856001,Referral to hypertension clinic
+183856001,Referral to hypertension clinic (procedure)
+183899006,Private referral to cardiologist
+183899006,Private referral to cardiologist (procedure)
+183916004,Private referral to nephrologist
+183916004,Private referral to nephrologist (procedure)
+306125004,Referral to nephrology service
+306125004,Referral to nephrology service (procedure)
+306286007,Referral to nephrologist
+306286007,Referral to nephrologist (procedure)
+306286007,Referral to renal physician
+306802002,Referral to stroke service
+306802002,Referral to stroke service (procedure)
+308471005,Referral to cardiologist
+308471005,Referral to cardiologist (procedure)
+412773009,Referral to stroke clinic (procedure)
+412773009,Referral to stroke clinic
+705146005,Referral to transient ischemic attack clinic
+705146005,Referral to transient ischaemic attack clinic
+705146005,Referral to transient ischemic attack clinic (procedure)
+117131000000101,Referral to stroke clinic
+117131000000101,Referral to stroke clinic
+121871000000109,Referral to stroke clinic
+121871000000109,Referral to stroke clinic
+248581000000102,Referral to renal physician (procedure)
+248581000000102,Referral to renal physician
+248581000000102,Referral to nephrologist
+248581000000102,Referral to (renal physician [AND/OR nephrologist])
+250811000000107,Referral to renal physician 
+250811000000107,Referral to renal physician
+273791000000102,Referral to renal physician 
+273791000000102,Referral to renal physician
+766191000000105,Referral to transient ischaemic attack clinic (procedure)
+766191000000105,Referral to transient ischaemic attack clinic
+785761000000105,Referral to community cardiology service (procedure)
+785761000000105,Referral to community cardiology service
+785771000000103,Referral to community cardiology service 
+785771000000103,Referral to community cardiology service
+845851000000106,Referral to cardiology multidisciplinary team (procedure)
+845851000000106,Referral to cardiology multidisciplinary team
+845861000000109,Referral to cardiology multidisciplinary team 
+845861000000109,Referral to cardiology multidisciplinary team
+873881000000100,Referral to rapid access heart failure clinic (procedure)
+873881000000100,Referral to rapid access heart failure clinic
+873891000000103,Referral to rapid access heart failure clinic 
+873891000000103,Referral to rapid access heart failure clinic
